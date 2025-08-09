@@ -7,7 +7,7 @@ Java
 | 217 | Contains Duplicate               | Easy       | [217_ContainsDuplicate.java](Java/ContainsDuplicate.java)                                  |
 | 268 | Missing Number                   | Easy       | [268_MissingNumber.java](Java/MissingNumber.java)                                          |
 | 448 | Find All Numbers Disappeared In  | Easy       | [448_FindAllNumbersDisappearedInAnArray.java](Java/FindAllNumbersDisappearedInAnArray.java)|
-|     | An Array                         |            |                                                                                            |
+        An Array                                                                                                                                  
 |     |                                  |            |                                                                                            |
 
 
