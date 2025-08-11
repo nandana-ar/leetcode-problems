@@ -2,19 +2,19 @@
 
 Java 
 
-| #   | Title                            | Difficulty | Solution File                                                                              |
-|-----|----------------------------------|------------|--------------------------------------------------------------------------------------------|
-| 217 | Contains Duplicate               | Easy       | [217_ContainsDuplicate.java](Java/ContainsDuplicate.java)                                  |
-| 268 | Missing Number                   | Easy       | [268_MissingNumber.java](Java/MissingNumber.java)                                          |
-| 448 | Find All Numbers Disappeared In  | Easy       | [448_FindAllNumbersDisappearedInAnArray.java](Java/FindAllNumbersDisappearedInAnArray.java)|
-|     |  An Array                        |                                                                                                         |                                                        
-|     |                                  |            |                                                                                            |
+| #   | Title                                    | Difficulty | Solution File                                                                              |
+|-----|------------------------------------------|------------|--------------------------------------------------------------------------------------------|
+| 217 | Contains Duplicate                       | Easy       | [217_ContainsDuplicate.java](Java/ContainsDuplicate.java)                                  |
+| 268 | Missing Number                           | Easy       | [268_MissingNumber.java](Java/MissingNumber.java)                                          |
+| 448 | Find All Numbers Disappeared In An Array | Easy       | [448_FindAllNumbersDisappearedInAnArray.java](Java/FindAllNumbersDisappearedInAnArray.java)|                                                        
+|     |                                          |            |                                                                                            |
 
 
 Python 
 
-| #   | Title                            | Difficulty | Solution File                                               |
-|-----|----------------------------------|------------|-------------------------------------------------------------|
-| 217 | Contains Duplicate               | Easy       | [217_ContainsDuplicate.py](Python/ContainsDuplicate.py)     |
-| 268 | Missing Number                   | Easy       | [268_MissingNumber.py](Python/MissingNumber.py)             |
-|     |                                  |            |                                                             |
+| #   | Title                                    | Difficulty | Solution File                                                                              |
+|-----|------------------------------------------|------------|--------------------------------------------------------------------------------------------|
+| 217 | Contains Duplicate                       | Easy       | [217_ContainsDuplicate.py](Python/ContainsDuplicate.py)                                    |
+| 268 | Missing Number                           | Easy       | [268_MissingNumber.py](Python/MissingNumber.py)                                            |
+| 448 | Find All Numbers Disappeared In An Array | Easy       | [448_FindAllNumbersDisappearedInAnArray.py](Java/FindAllNumbersDisappearedInAnArray.py)    |                                                    
+|     |                                          |            |                                                                                            |
