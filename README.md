@@ -1,7 +1,10 @@
-# leetcode-problems
+# 📚 LeetCode Problems
 
-Java 
+This repository contains my solutions to **LeetCode** problems in **Java** and **Python**, neatly organised in the order in which I solved the problems.
 
+<details>
+<summary>🍵 Java </summary>
+  
 | #   | Title                                    | Difficulty | Solution File                                                                              |
 |-----|------------------------------------------|------------|--------------------------------------------------------------------------------------------|
 | 217 | Contains Duplicate                       | Easy       | [217_ContainsDuplicate.java](Java/ContainsDuplicate.java)                                  |
@@ -9,12 +12,16 @@ Java
 | 448 | Find All Numbers Disappeared In An Array | Easy       | [448_FindAllNumbersDisappearedInAnArray.java](Java/FindAllNumbersDisappearedInAnArray.java)|                                                        
 |     |                                          |            |                                                                                            |
 
+</details>
 
-Python 
-
+<details>
+<summary>🐍 Python </summary>
+  
 | #   | Title                                    | Difficulty | Solution File                                                                              |
 |-----|------------------------------------------|------------|--------------------------------------------------------------------------------------------|
 | 217 | Contains Duplicate                       | Easy       | [217_ContainsDuplicate.py](Python/ContainsDuplicate.py)                                    |
 | 268 | Missing Number                           | Easy       | [268_MissingNumber.py](Python/MissingNumber.py)                                            |
 | 448 | Find All Numbers Disappeared In An Array | Easy       | [448_FindAllNumbersDisappearedInAnArray.py](Java/FindAllNumbersDisappearedInAnArray.py)    |                                                    
 |     |                                          |            |                                                                                            |
+
+</details>
