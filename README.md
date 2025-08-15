@@ -23,7 +23,9 @@ This repository contains my solutions to **LeetCode** problems in **Java** and *
 |-----|------------------------------------------|------------|--------------------------------------------------------------------------------------------|
 | 217 | Contains Duplicate                       | Easy       | [217_ContainsDuplicate.py](Python/ContainsDuplicate.py)                                    |
 | 268 | Missing Number                           | Easy       | [268_MissingNumber.py](Python/MissingNumber.py)                                            |
-| 448 | Find All Numbers Disappeared In An Array | Easy       | [448_FindAllNumbersDisappearedInAnArray.py](Java/FindAllNumbersDisappearedInAnArray.py)    |                                                    
+| 448 | Find All Numbers Disappeared In An Array | Easy       | [448_FindAllNumbersDisappearedInAnArray.py](Java/FindAllNumbersDisappearedInAnArray.py)    |  
+| 242 | Valid Anagram                            | Easy       | [242_ValidAnagram.py](Java/ValidAnagram.py)                                                |
+
 |     |                                          |            |                                                                                            |
 
 </details>
