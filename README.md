@@ -2,22 +2,21 @@
 
 This repository contains my solutions to **LeetCode** problems in **Java** and **Python**, neatly organised in the order in which I solved the problems.
 
-<details>
-<summary>🍵 Java </summary>
+
+## Order Completed 
   
-| #   | Title                                    | Difficulty | Solution File                                                                              |
-|-----|------------------------------------------|------------|--------------------------------------------------------------------------------------------|
-| 217 | Contains Duplicate                       | Easy       | [217_ContainsDuplicate.java](Java/ContainsDuplicate.java)                                  |
-| 268 | Missing Number                           | Easy       | [268_MissingNumber.java](Java/MissingNumber.java)                                          |
-| 448 | Find All Numbers Disappeared In An Array | Easy       | [448_FindAllNumbersDisappearedInAnArray.java](Java/FindAllNumbersDisappearedInAnArray.java)| 
-| 242 | Valid Anagram                            | Easy       | [242_ValidAnagram.java](Java/ValidAnagram.java)                                            |
+| #   | Title                                    | Difficulty | Topic  | Solution Files                                                                                              |
+|-----|------------------------------------------|------------|--------|-------------------------------------------------------------------------------------------------------------|
+| 217 | Contains Duplicate                       | Easy       | Arrays | [Java](Java/ContainsDuplicate.java) [Python](Python/ContainsDuplicate.py)                                   |
+| 268 | Missing Number                           | Easy       | Arrays | [Java](Java/MissingNumber.java) [Python](Python/MissingNumber.py)                                           |
+| 448 | Find All Numbers Disappeared In An Array | Easy       | Arrays | [Java](Java/FindAllNumbersDisappearedInAnArray.java) [Python](Python/FindAllNumbersDisappearedInAnArray.py) | 
+| 242 | Valid Anagram                            | Easy       | Arrays | [Java](Java/ValidAnagram.java) [Python](Python/ValidAnagram.py)                                             |
 
-|     |                                          |            |                                                                                            |
 
-</details>
+## By Topic 
 
 <details>
-<summary>🐍 Python </summary>
+<summary><i>Arrays</i></summary>
   
 | #   | Title                                    | Difficulty | Solution File                                                                              |
 |-----|------------------------------------------|------------|--------------------------------------------------------------------------------------------|
@@ -26,6 +25,10 @@ This repository contains my solutions to **LeetCode** problems in **Java** and *
 | 448 | Find All Numbers Disappeared In An Array | Easy       | [448_FindAllNumbersDisappearedInAnArray.py](Java/FindAllNumbersDisappearedInAnArray.py)    |  
 | 242 | Valid Anagram                            | Easy       | [242_ValidAnagram.py](Java/ValidAnagram.py)                                                |
 
-|     |                                          |            |                                                                                            |
+</details>
+
+
+<details>
+<summary><i> Sets</i> </summary>
 
 </details>
