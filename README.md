@@ -11,6 +11,7 @@ This repository contains my solutions to **LeetCode** problems in **Java** and *
 | 268 | Missing Number                           | Easy       | Arrays | [Java](Java/MissingNumber.java) [Python](Python/MissingNumber.py)                                           |
 | 448 | Find All Numbers Disappeared In An Array | Easy       | Arrays | [Java](Java/FindAllNumbersDisappearedInAnArray.java) [Python](Python/FindAllNumbersDisappearedInAnArray.py) | 
 | 242 | Valid Anagram                            | Easy       | Arrays | [Java](Java/ValidAnagram.java) [Python](Python/ValidAnagram.py)                                             |
+| 1   | Two Sum                                  | Easy       | Arrays |                                                                                                             |
 
 
 ## By Topic 
