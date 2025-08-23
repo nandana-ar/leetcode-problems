@@ -11,7 +11,8 @@ This repository contains my solutions to **LeetCode** problems in **Java** and *
 | 268 | Missing Number                           | Easy       | Arrays | [Java](Java/MissingNumber.java) [Python](Python/MissingNumber.py)                                           |
 | 448 | Find All Numbers Disappeared In An Array | Easy       | Arrays | [Java](Java/FindAllNumbersDisappearedInAnArray.java) [Python](Python/FindAllNumbersDisappearedInAnArray.py) | 
 | 242 | Valid Anagram                            | Easy       | Arrays | [Java](Java/ValidAnagram.java) [Python](Python/ValidAnagram.py)                                             |
-| 1   | Two Sum                                  | Easy       | Arrays |                                                                                                             |
+|   1 | Two Sum                                  | Easy       | Arrays | [Java](Java/TwoSum.java) [Python](Python/TwoSum.py)                                                         |
+|  49 | Group Anagrams                           | Medium     | Arrays Hash Maps |  [Java](Java/GroupAnagrams.java)                                                                  |
 
 
 ## By Topic 
@@ -19,17 +20,23 @@ This repository contains my solutions to **LeetCode** problems in **Java** and *
 <details>
 <summary><i>Arrays</i></summary>
   
-| #   | Title                                    | Difficulty | Solution File                                                                              |
-|-----|------------------------------------------|------------|--------------------------------------------------------------------------------------------|
-| 217 | Contains Duplicate                       | Easy       | [217_ContainsDuplicate.py](Python/ContainsDuplicate.py)                                    |
-| 268 | Missing Number                           | Easy       | [268_MissingNumber.py](Python/MissingNumber.py)                                            |
-| 448 | Find All Numbers Disappeared In An Array | Easy       | [448_FindAllNumbersDisappearedInAnArray.py](Java/FindAllNumbersDisappearedInAnArray.py)    |  
-| 242 | Valid Anagram                            | Easy       | [242_ValidAnagram.py](Java/ValidAnagram.py)                                                |
+| #   | Title                                    | Difficulty | Solution File                                                                                               |
+|-----|------------------------------------------|------------|-------------------------------------------------------------------------------------------------------------|
+| 217 | Contains Duplicate                       | Easy       | [Java](Java/ContainsDuplicate.java) [Python](Python/ContainsDuplicate.py)                                   |
+| 268 | Missing Number                           | Easy       | [Java](Java/MissingNumber.java) [Python](Python/MissingNumber.py)                                           |
+| 448 | Find All Numbers Disappeared In An Array | Easy       | [Java](Java/FindAllNumbersDisappearedInAnArray.java) [Python](Python/FindAllNumbersDisappearedInAnArray.py) | 
+| 242 | Valid Anagram                            | Easy       | [Java](Java/ValidAnagram.java) [Python](Python/ValidAnagram.py)                                             |
+|   1 | Two Sum                                  | Easy       | [Java](Java/TwoSum.java) [Python](Python/TwoSum.py)                                                         |
+|  49 | Group Anagrams                           | Medium     |  [Java](Java/GroupAnagrams.java)                                                                            |
 
 </details>
 
 
 <details>
-<summary><i> Sets</i> </summary>
+<summary><i> Hash Maps </i> </summary>
+  
+| #   | Title                                    | Difficulty | Solution File                                                                              |
+|-----|------------------------------------------|------------|--------------------------------------------------------------------------------------------|
+|  49 | Group Anagrams                           | Medium     |  [Java](Java/GroupAnagrams.java)                                                           |
 
 </details>
