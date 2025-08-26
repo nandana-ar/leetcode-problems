@@ -14,6 +14,7 @@ This repository contains my solutions to **LeetCode** problems in **Java** and *
 |   1 | Two Sum                                  | ![Easy](https://img.shields.io/badge/Easy-green)      | Arrays | [Java](Java/TwoSum.java) [Python](Python/TwoSum.py)                                             |
 |  49 | Group Anagrams                           | ![Medium](https://img.shields.io/badge/Medium-orange) | Arrays, Hash Maps |  [Java](Java/GroupAnagrams.java)                                                     |
 | 347 | Top K Frequent Elements                  | ![Medium](https://img.shields.io/badge/Medium-orange) | Arrays, Hash Maps, Heaps | [Java](Java/TopKFrequentElements.java)                                        |
+| 238 | Product Of Array Except Self             | ![Medium](https://img.shields.io/badge/Medium-orange) | Arrays, Prefix Sum | [Java](Java/ProductOfArrayExceptSelf.java)                                          |
 
 
 ## By Topic 
@@ -30,6 +31,8 @@ This repository contains my solutions to **LeetCode** problems in **Java** and *
 |   1 | Two Sum                                  | Easy       | [Java](Java/TwoSum.java) [Python](Python/TwoSum.py)                                                         |
 |  49 | Group Anagrams                           | Medium     | [Java](Java/GroupAnagrams.java)                                                                             |
 | 347 | Top K Frequent Elements                  | Medium     | [Java](Java/TopKFrequentElements.java)                                                                      |
+| 238 | Product Of Array Except Self             | Medium     | [Java](Java/ProductOfArrayExceptSelf.java)                                                                  |
+
 
 </details>
 
