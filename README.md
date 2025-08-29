@@ -15,7 +15,8 @@ This repository contains my solutions to **LeetCode** problems in **Java** and *
 |  49 | Group Anagrams                           | ![Medium](https://img.shields.io/badge/Medium-orange) | Arrays, Hash Maps |  [Java](Java/GroupAnagrams.java)                                                     |
 | 347 | Top K Frequent Elements                  | ![Medium](https://img.shields.io/badge/Medium-orange) | Arrays, Hash Maps, Heaps | [Java](Java/TopKFrequentElements.java)                                        |
 | 238 | Product Of Array Except Self             | ![Medium](https://img.shields.io/badge/Medium-orange) | Arrays, Prefix Sum | [Java](Java/ProductOfArrayExceptSelf.java)                                          |
-
+|  36 | Valid Sudoku                             | ![Medium](https://img.shields.io/badge/Medium-orange) | Arrays, Hash Sets | [Java](Java/ValidSudoku.java)                                                        |
+| 128 | Longest Consecutive Sequence             |                                                       |                   |                                                                                      |
 
 ## By Topic 
 
