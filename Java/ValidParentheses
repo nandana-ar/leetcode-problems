@@ -1,0 +1,53 @@
+//-----------------------------PROBLEM 20--------------------------------//
+//                          VALID PARENTHESES                            //
+
+
+// Logic:
+// -> Use a stack to keep track of opening brackets
+// -> Iterate through each character in the string
+// -> If the character is an opening bracket, push it onto the stack
+// -> If the character is a closing bracket, check if the stack is empty
+//    - If it is empty, return false (no matching opening bracket)
+//    - If it is not empty, pop the top of the stack and check if it matches
+//      the corresponding opening bracket
+//    - If it does not match, return false
+// -> After processing all characters, if the stack is empty, return true
+//   (all brackets matched)
+// -> Otherwise, return false
+
+
+import java.util.*;
+
+class Solution {
+
+    public boolean isValid(String s) {
+
+        Stack<Character> stack = new Stack<>();
+
+        for (char c : s.toCharArray()) {
+            if (c == '(' || c == '{' || c == '[') {
+                stack.push(c);
+            } else {
+                if (stack.isEmpty()) 
+                    return false;
+                char open = stack.pop();
+                if (c == ')' && open != '(') 
+                    return false;
+                if (c == '}' && open != '{') 
+                    return false;
+                if (c == ']' && open != '[') 
+                    return false;
+            }
+        }
+
+        return stack.isEmpty();
+    }
+
+}
+
+
+// Time Complexity:
+// -> Iterating through the string: O(n)
+// -> Stack operations (push and pop): O(1)
+// Overall, O(1) * n
+// => O(n)
