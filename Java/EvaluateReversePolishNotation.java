@@ -1,7 +1,7 @@
 //------------------------------PROBLEM 150------------------------------//
 //                    EVALUATE REVERSE POLISH NOTATION                   //
 
-
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Attempt #1~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~//
 // Logic:
 // -> Use a stack to keep track of numbers
 // -> Iterate through each token in the input array
@@ -46,6 +46,70 @@ class Solution {
                 }
                 
                 tokenStack.push(result); 
+            }
+
+        }
+
+        return tokenStack.pop(); 
+
+    }
+}
+
+
+// Time Complexity:
+// -> Iterating through the tokens array: O(n)
+// -> Stack operations (push and pop): O(1)
+// Overall, O(1) * n
+// => O(n)
+// Note: Exceptions in Java are expensive because they build a full stack 
+// trace and using it for normal control flow adds overhead
+
+
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Attempt #2~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~//
+// Logic:
+// -> Use a stack to keep track of numbers
+// -> Iterate through each token in the input array
+// -> If the token is an operator (+, -, *, /), pop the top two numbers
+//    from the stack, apply the operator, and push the result back onto
+//    the stack
+// -> If the token is a number, push it onto the stack
+// -> At the end, the stack will contain only the result element
+// -> Pop and return this result
+
+
+import java.util.*;
+
+class Solution {
+    public int evalRPN(String[] tokens) {
+
+        Stack<Integer> tokenStack = new Stack<>();
+
+        for(int i = 0; i < tokens.length; i++) {
+
+            if("+-*/".contains(tokens[i])) { 
+                int num1 = tokenStack.pop(); 
+                int num2 = tokenStack.pop(); 
+                int result = 0; 
+
+                switch (tokens[i]) {
+                    case "+":
+                        result = num2 + num1;
+                        break;
+                    case "-":
+                        result = num2 - num1;
+                        break;
+                    case "*":
+                        result = num2 * num1;
+                        break;
+                    case "/":
+                        result = num2 / num1;
+                        break;
+                }
+                
+                tokenStack.push(result); 
+                
+            } else {
+                tokenStack.push(Integer.parseInt(tokens[i]));
             }
 
         }
