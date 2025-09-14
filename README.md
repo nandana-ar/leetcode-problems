@@ -5,8 +5,8 @@ This repository contains my solutions to **LeetCode** problems in **Java** and *
 
 ## Order Completed 
   
-| #   | Title                                    | Difficulty                                            | Topic  | Solution Files                                                                                  |
-|-----|------------------------------------------|-------------------------------------------------------|--------|-------------------------------------------------------------------------------------------------|
+| #   | Title                                    | Difficulty                                            | Topic  | Solution Files                                                                                 |
+|-----|------------------------------------------|-------------------------------------------------------|--------|------------------------------------------------------------------------------------------------|
 | 217 | Contains Duplicate                       | ![Easy](https://img.shields.io/badge/Easy-green)      | Arrays | [Java](Java/ContainsDuplicate.java) [Python](Python/ContainsDuplicate.py)                      |
 | 268 | Missing Number                           | ![Easy](https://img.shields.io/badge/Easy-green)      | Arrays | [Java](Java/MissingNumber.java) [Python](Python/MissingNumber.py)                              |
 | 448 | Find All Numbers Disappeared In An Array | ![Easy](https://img.shields.io/badge/Easy-green)      | Arrays | [Java](Java/FindAllNumbersDisappearedInAnArray.java) [Python](Python/FindAllNumbersDisappearedInAnArray.py) | 
@@ -25,12 +25,15 @@ This repository contains my solutions to **LeetCode** problems in **Java** and *
 | 20  | Valid Parentheses                        | ![Easy](https://img.shields.io/badge/Easy-green)      | Stack, String | [Java](Java/ValidParentheses.java)                                                      |
 | 155 | Min Stack                                | ![Medium](https://img.shields.io/badge/Medium-orange) | Stack | [Java](Java/MinStack.java)                                                                      |
 | 150 | Evaluate Reverse Polish Notation         | ![Medium](https://img.shields.io/badge/Medium-orange) | Stack | [Java](Java/EvaluateReversePolishNotation.java)                                                 |
+|  22 | Generate Parentheses                     | ![Medium](https://img.shields.io/badge/Medium-orange) | Stack, List, String | [Java](Java/GenerateParentheses.java)                                             |
+| 739 | Daily Temperatures                       | ![Medium](https://img.shields.io/badge/Medium-orange) | Array, Stack, Monotonic Stack | [Java](Java/DailyTemperatures.java)                                     |
+| 853 | Car Fleet                                | ![Medium](https://img.shields.io/badge/Medium-orange) | Array, Sorting | [Java](Java/CarFleet.java)                                                             |
 
 
 ## By Topic 
 
 <details>
-<summary><i>Arrays</i></summary>
+<summary><i>Array</i></summary>
   
 | #   | Title                                    | Difficulty | Solution File                                                                                               |
 |-----|------------------------------------------|------------|-------------------------------------------------------------------------------------------------------------|
@@ -45,6 +48,18 @@ This repository contains my solutions to **LeetCode** problems in **Java** and *
 |  36 | Valid Sudoku                             | Medium     | [Java](Java/ValidSudoku.java)                                                                               |
 | 128 | Longest Consecutive Sequence             | Medium     | [Java](Java/LongestConsecutiveSequence.java)                                                                |
 | 15  | 3Sum                                     | Medium     | [Java](Java/3Sum.java)                                                                                      |
+| 739 | Daily Temperatures                       | Medium     | [Java](Java/DailyTemperatures.java)                                                                         |
+| 853 | Car Fleet                                | Medium     | [Java](Java/CarFleet.java)                                                                                  |
+
+</details>
+
+
+<details> 
+<summary><i> List </i> </summary>
+  
+| #   | Title                                    | Difficulty | Solution File                                                                              |
+|-----|------------------------------------------|------------|--------------------------------------------------------------------------------------------|
+|  22 | Generate Parentheses                     | Medium     | [Java](Java/GenerateParentheses.java)                                                      |
 
 </details>
 
@@ -89,6 +104,18 @@ This repository contains my solutions to **LeetCode** problems in **Java** and *
 | 20  | Valid Parentheses                        | Easy       | [Java](Java/ValidParentheses.java)                                                         |
 | 155 | Min Stack                                | Medium     | [Java](Java/MinStack.java)                                                                 |
 | 150 | Evaluate Reverse Polish Notation         | Medium     | [Java](Java/EvaluateReversePolishNotation.java)                                            |
+|  22 | Generate Parentheses                     | Medium     | [Java](Java/GenerateParentheses.java)                                                      |
+| 739 | Daily Temperatures                       | Medium     | [Java](Java/DailyTemperatures.java)                                                        |
+
+</details>
+
+
+<details>
+<summary><i> Monotonic Stack </i> </summary>
+  
+| #   | Title                                    | Difficulty | Solution File                                                                              |
+|-----|------------------------------------------|------------|--------------------------------------------------------------------------------------------|
+| 739 | Daily Temperatures                       | Medium     | [Java](Java/DailyTemperatures.java)                                                        |
 
 </details>
 
@@ -110,6 +137,7 @@ This repository contains my solutions to **LeetCode** problems in **Java** and *
 |-----|------------------------------------------|------------|--------------------------------------------------------------------------------------------|
 | 125 | Valid Palindrome                         | Easy       | [Java](Java/ValidPalindrome.java)                                                          |
 | 20  | Valid Parentheses                        | Easy       | [Java](Java/ValidParentheses.java)                                                         |
+|  22 | Generate Parentheses                     | Medium     | [Java](Java/GenerateParentheses.java)                                                      |
 
 </details>
 
@@ -126,3 +154,14 @@ This repository contains my solutions to **LeetCode** problems in **Java** and *
 | 42  | Trapping Rain Water                      | Hard       | [Java](Java/TrappingRainWater.java)                                                        |
 
 </details>
+
+
+<details>
+<summary><i> Sorting </i></summary>
+  
+| #   | Title                                    | Difficulty | Solution File                                                                               |
+|-----|------------------------------------------|------------|---------------------------------------------------------------------------------------------|
+| 853 | Car Fleet                                | Medium     | [Java](Java/CarFleet.java)                                                                  |
+
+</details>
+
