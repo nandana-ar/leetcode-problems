@@ -19,15 +19,16 @@ This repository contains my solutions to **LeetCode** problems in **Java** and *
 | 128 | Longest Consecutive Sequence             | ![Medium](https://img.shields.io/badge/Medium-orange) | Arrays, Hash Sets | [Java](Java/LongestConsecutiveSequence.java)                                        |
 | 125 | Valid Palindrome                         | ![Easy](https://img.shields.io/badge/Easy-green)      | Two Pointers, String | [Java](Java/ValidPalindrome.java)                                                |
 | 167 | Two Sum II: Input Array Is Sorted        | ![Medium](https://img.shields.io/badge/Medium-orange) | Two Pointers | [Java](Java/TwoSumII.java)                                                               |
-| 15  | 3Sum                                     | ![Medium](https://img.shields.io/badge/Medium-orange) | Arrays, Two Pointers | [Java](Java/3Sum.java)                                                           |
-| 11  | Container With Most Water                | ![Medium](https://img.shields.io/badge/Medium-orange) | Two Pointers | [Java](Java/ContainerWithMostWater.java)                                                 |
-| 42  | Trapping Rain Water                      | ![Hard](https://img.shields.io/badge/Hard-%238B0000)  | Two Pointers | [Java](Java/TrappingRainWater.java)                                                      |
-| 20  | Valid Parentheses                        | ![Easy](https://img.shields.io/badge/Easy-green)      | Stack, String | [Java](Java/ValidParentheses.java)                                                      |
+|  15 | 3Sum                                     | ![Medium](https://img.shields.io/badge/Medium-orange) | Arrays, Two Pointers | [Java](Java/3Sum.java)                                                           |
+|  11 | Container With Most Water                | ![Medium](https://img.shields.io/badge/Medium-orange) | Two Pointers | [Java](Java/ContainerWithMostWater.java)                                                 |
+|  42 | Trapping Rain Water                      | ![Hard](https://img.shields.io/badge/Hard-%238B0000)  | Two Pointers | [Java](Java/TrappingRainWater.java)                                                      |
+|  20 | Valid Parentheses                        | ![Easy](https://img.shields.io/badge/Easy-green)      | Stack, String | [Java](Java/ValidParentheses.java)                                                      |
 | 155 | Min Stack                                | ![Medium](https://img.shields.io/badge/Medium-orange) | Stack | [Java](Java/MinStack.java)                                                                      |
 | 150 | Evaluate Reverse Polish Notation         | ![Medium](https://img.shields.io/badge/Medium-orange) | Stack | [Java](Java/EvaluateReversePolishNotation.java)                                                 |
 |  22 | Generate Parentheses                     | ![Medium](https://img.shields.io/badge/Medium-orange) | Stack, List, String | [Java](Java/GenerateParentheses.java)                                             |
 | 739 | Daily Temperatures                       | ![Medium](https://img.shields.io/badge/Medium-orange) | Array, Stack, Monotonic Stack | [Java](Java/DailyTemperatures.java)                                     |
-| 853 | Car Fleet                                | ![Medium](https://img.shields.io/badge/Medium-orange) | Array, Sorting | [Java](Java/CarFleet.java)                                                             |
+| 853 | Car Fleet ***                            | ![Medium](https://img.shields.io/badge/Medium-orange) | Array, Sorting | [Java](Java/CarFleet.java)                                                             |
+|  84 | Largest Rectangle In Histogram ***       | ![Hard](https://img.shields.io/badge/Hard-%238B0000)  | Array | [Java](Java/LargestRectangleInHistogram.java)                                                   |
 
 
 ## By Topic 
@@ -50,6 +51,8 @@ This repository contains my solutions to **LeetCode** problems in **Java** and *
 | 15  | 3Sum                                     | Medium     | [Java](Java/3Sum.java)                                                                                      |
 | 739 | Daily Temperatures                       | Medium     | [Java](Java/DailyTemperatures.java)                                                                         |
 | 853 | Car Fleet                                | Medium     | [Java](Java/CarFleet.java)                                                                                  |
+|  84 | Largest Rectangle In Histogram           | Hard       | [Java](Java/LargestRectangleInHistogram.java)                                                               |
+
 
 </details>
 
@@ -165,3 +168,5 @@ This repository contains my solutions to **LeetCode** problems in **Java** and *
 
 </details>
 
+<h4> Key </h4>
+*** = Come back for a better performing solution 
