@@ -28,7 +28,10 @@ This repository contains my solutions to **LeetCode** problems in **Java** and *
 |  22 | Generate Parentheses                     | ![Medium](https://img.shields.io/badge/Medium-orange) | Stack, List, String | [Java](Java/GenerateParentheses.java)                                             |
 | 739 | Daily Temperatures                       | ![Medium](https://img.shields.io/badge/Medium-orange) | Array, Stack, Monotonic Stack | [Java](Java/DailyTemperatures.java)                                     |
 | 853 | Car Fleet ***                            | ![Medium](https://img.shields.io/badge/Medium-orange) | Array, Sorting | [Java](Java/CarFleet.java)                                                             |
-|  84 | Largest Rectangle In Histogram ***       | ![Hard](https://img.shields.io/badge/Hard-%238B0000)  | Array | [Java](Java/LargestRectangleInHistogram.java)                                                   |
+|  84 | Largest Rectangle In Histogram ***       | ![Hard](https://img.shields.io/badge/Hard-%238B0000)  | Array | [Java](Java/LargestRectangleInHistogram.java)                                                  |
+| 704 | Binary Search                            | ![Easy](https://img.shields.io/badge/Easy-green)      | Array, Binary Search | [Java](Java/BinarySearch.java)                                                  | 
+|  74 | Search a 2D Matrix                       | ![Medium](https://img.shields.io/badge/Medium-orange) | Array, Binary Search | [Java](Java/SearchA2DMatrix.java)                                               | 
+| 875 | Koko Eating Bananas                      | ![Medium](https://img.shields.io/badge/Medium-orange) | Array, Binary Search | [Java](Java/KokoEatingBananas.java)                                              |
 
 
 ## By Topic 
@@ -52,6 +55,9 @@ This repository contains my solutions to **LeetCode** problems in **Java** and *
 | 739 | Daily Temperatures                       | Medium     | [Java](Java/DailyTemperatures.java)                                                                         |
 | 853 | Car Fleet                                | Medium     | [Java](Java/CarFleet.java)                                                                                  |
 |  84 | Largest Rectangle In Histogram           | Hard       | [Java](Java/LargestRectangleInHistogram.java)                                                               |
+| 704 | Binary Search                            | Easy       | [Java](Java/BinarySearch.java)                                                                              | 
+|  74 | Search a 2D Matrix                       | Medium     | [Java](Java/SearchA2DMatrix.java)                                                                           | 
+| 875 | Koko Eating Bananas                      | Medium     | [Java](Java/KokoEatingBananas.java)                                                                         |
 
 
 </details>
@@ -167,6 +173,16 @@ This repository contains my solutions to **LeetCode** problems in **Java** and *
 | 853 | Car Fleet                                | Medium     | [Java](Java/CarFleet.java)                                                                  |
 
 </details>
+
+
+<details>
+<summary><i> Binary Search </i></summary>
+  
+| #   | Title                                    | Difficulty | Solution File                                                                               |
+|-----|------------------------------------------|------------|---------------------------------------------------------------------------------------------|
+| 704 | Binary Search                            | Easy       | [Java](Java/BinarySearch.java)                                                              | 
+|  74 | Search a 2D Matrix                       | Medium     | [Java](Java/SearchA2DMatrix.java)                                                           | 
+| 875 | Koko Eating Bananas                      | Medium     | [Java](Java/KokoEatingBananas.java)                                                         |
 
 <h4> Key </h4>
 *** = Come back for a better performing solution 
