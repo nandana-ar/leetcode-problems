@@ -32,6 +32,11 @@ This repository contains my solutions to **LeetCode** problems in **Java** and *
 | 704 | Binary Search                            | ![Easy](https://img.shields.io/badge/Easy-green)      | Array, Binary Search | [Java](Java/BinarySearch.java)                                                  | 
 |  74 | Search a 2D Matrix                       | ![Medium](https://img.shields.io/badge/Medium-orange) | Array, Binary Search | [Java](Java/SearchA2DMatrix.java)                                               | 
 | 875 | Koko Eating Bananas                      | ![Medium](https://img.shields.io/badge/Medium-orange) | Array, Binary Search | [Java](Java/KokoEatingBananas.java)                                              |
+| 153 | Find Minimum In Rotated Sorted Array     | ![Medium](https://img.shields.io/badge/Medium-orange) | Array, Binary Search | [Java](Java/FindMinimumInRotatedSortedArray.java)                                |
+|  33 | Search In Rotated Sorted Array           | ![Medium](https://img.shields.io/badge/Medium-orange) | Array, Binary Search | [Java](Java/SearchInRotatedSortedArray.java)                                     |
+| 981 | Time Based Key-Value Store ***           | ![Medium](https://img.shields.io/badge/Medium-orange) |                      |                                                                                  |
+|   4 | Median Of Two Sorted Arrays ***          | ![Hard](https://img.shields.io/badge/Hard-%238B0000)  | Array | [Java](Java/MedianOfTwoSortedArrays.java)                                                       |
+| 121 | Best Time to Buy And Sell Stock          | ![Easy](https://img.shields.io/badge/Easy-green)      | Array | [Java](Java/BestTimeToBuyAndSellStock.java)                                                     |
 
 
 ## By Topic 
@@ -58,6 +63,10 @@ This repository contains my solutions to **LeetCode** problems in **Java** and *
 | 704 | Binary Search                            | Easy       | [Java](Java/BinarySearch.java)                                                                              | 
 |  74 | Search a 2D Matrix                       | Medium     | [Java](Java/SearchA2DMatrix.java)                                                                           | 
 | 875 | Koko Eating Bananas                      | Medium     | [Java](Java/KokoEatingBananas.java)                                                                         |
+| 153 | Find Minimum In Rotated Sorted Array     | Medium     | [Java](Java/FindMinimumInRotatedSortedArray.java)                                                           |
+|  33 | Search In Rotated Sorted Array           | Medium     | [Java](Java/SearchInRotatedSortedArray.java)                                                                |  
+|   4 | Median Of Two Sorted Arrays              | Hard       | [Java](Java/MedianOfTwoSortedArrays.java)                                                                   |
+| 121 | Best Time to Buy And Sell Stock          | Easy       | [Java](Java/BestTimeToBuyAndSellStock.java)                                                                 |
 
 
 </details>
@@ -183,6 +192,8 @@ This repository contains my solutions to **LeetCode** problems in **Java** and *
 | 704 | Binary Search                            | Easy       | [Java](Java/BinarySearch.java)                                                              | 
 |  74 | Search a 2D Matrix                       | Medium     | [Java](Java/SearchA2DMatrix.java)                                                           | 
 | 875 | Koko Eating Bananas                      | Medium     | [Java](Java/KokoEatingBananas.java)                                                         |
+| 153 | Find Minimum In Rotated Sorted Array     | Medium     | [Java](Java/FindMinimumInRotatedSortedArray.java)                                           |
+|  33 | Search In Rotated Sorted Array           | Medium     | [Java](Java/SearchInRotatedSortedArray.java)                                                |
 
 <h4> Key </h4>
 *** = Come back for a better performing solution 
