@@ -36,7 +36,9 @@ This repository contains my solutions to **LeetCode** problems in **Java** and *
 |  33 | Search In Rotated Sorted Array           | ![Medium](https://img.shields.io/badge/Medium-orange) | Array, Binary Search | [Java](Java/SearchInRotatedSortedArray.java)                                     |
 | 981 | Time Based Key-Value Store ***           | ![Medium](https://img.shields.io/badge/Medium-orange) |                      |                                                                                  |
 |   4 | Median Of Two Sorted Arrays ***          | ![Hard](https://img.shields.io/badge/Hard-%238B0000)  | Array | [Java](Java/MedianOfTwoSortedArrays.java)                                                       |
-| 121 | Best Time to Buy And Sell Stock          | ![Easy](https://img.shields.io/badge/Easy-green)      | Array | [Java](Java/BestTimeToBuyAndSellStock.java)                                                     |
+| 121 | Best Time to Buy And Sell Stock          | ![Easy](https://img.shields.io/badge/Easy-green)      | Array, Sliding Window | [Java](Java/BestTimeToBuyAndSellStock.java)                                     |
+|   3 | Longest Substring Without Repeating Characters  | ![Medium](https://img.shields.io/badge/Medium-orange) | Sliding Window, HashSet, HashMap | [Java](Java/LongestSubstringWithoutRepeatingCharacters.java) | 
+| 424 | Longest Repeating Character Replacement  | ![Medium](https://img.shields.io/badge/Medium-orange) | Sliding Window | [Java](Java/LongestRepeatingCharacterReplacement.java)                                |
 
 
 ## By Topic 
@@ -89,6 +91,7 @@ This repository contains my solutions to **LeetCode** problems in **Java** and *
 |-----|------------------------------------------|------------|--------------------------------------------------------------------------------------------|
 |  49 | Group Anagrams                           | Medium     |  [Java](Java/GroupAnagrams.java)                                                           |
 | 347 | Top K Frequent Elements                  | Medium     | [Java](Java/TopKFrequentElements.java)                                                     |
+|   3 | Longest Substring Without Repeating Characters| Medium | [Java](Java/LongestSubstringWithoutRepeatingCharacters.java)                              |
 
 </details>
 
@@ -100,6 +103,7 @@ This repository contains my solutions to **LeetCode** problems in **Java** and *
 |-----|------------------------------------------|------------|--------------------------------------------------------------------------------------------|
 |  36 | Valid Sudoku                             | Medium     | [Java](Java/ValidSudoku.java)                                                              |
 | 128 | Longest Consecutive Sequence             | Medium     | [Java](Java/LongestConsecutiveSequence.java)                                               |
+|   3 | Longest Substring Without Repeating Characters  | Medium | [Java](Java/LongestSubstringWithoutRepeatingCharacters.java)                            |
 
 </details>
 
@@ -194,6 +198,19 @@ This repository contains my solutions to **LeetCode** problems in **Java** and *
 | 875 | Koko Eating Bananas                      | Medium     | [Java](Java/KokoEatingBananas.java)                                                         |
 | 153 | Find Minimum In Rotated Sorted Array     | Medium     | [Java](Java/FindMinimumInRotatedSortedArray.java)                                           |
 |  33 | Search In Rotated Sorted Array           | Medium     | [Java](Java/SearchInRotatedSortedArray.java)                                                |
+
+</details>
+
+
+<details>
+<summary><i> Sliding Window </i></summary>
+  
+| #   | Title                                    | Difficulty | Solution File                                                                               |
+|-----|------------------------------------------|------------|---------------------------------------------------------------------------------------------|
+|   3 | Longest Substring Without Repeating Characters  | Medium | [Java](Java/LongestSubstringWithoutRepeatingCharacters.java)                             | 
+| 424 | Longest Repeating Character Replacement  | Medium | [Java](Java/LongestRepeatingCharacterReplacement.java)                                          |
+
+</details>
 
 <h4> Key </h4>
 *** = Come back for a better performing solution 
