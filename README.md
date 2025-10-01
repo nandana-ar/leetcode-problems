@@ -1,8 +1,13 @@
 # 📚 LeetCode Problems
 
-This repository contains my solutions to **LeetCode** problems in **Java** and **Python**, neatly organised in the order in which I solved the problems.
+📁 This repository contains my solutions to **LeetCode** problems in **Java** and **Python**, neatly organised in the order in which I solved the problems.
+💡 My goal is to document clear, efficient solutions while improving problem-solving skills in **data structures** and **algorithms**.  
 
-
+✨ Features:
+- ✅ Solutions in both **Java** and **Python** (where available).
+- ✅ Categorized by **topic** and **difficulty** for easy navigation.
+- ✅ Marked with `***` if I plan to revisit for an improved solution.
+  
 ## Order Completed 
   
 | #   | Title                                    | Difficulty                                            | Topic  | Solution Files                                                                                 |
