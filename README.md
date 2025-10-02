@@ -1,12 +1,12 @@
 # 📚 LeetCode Problems
 
-📁 This repository contains my solutions to **LeetCode** problems in **Java** and **Python**, neatly organised in the order in which I solved the problems.
-💡 My goal is to document clear, efficient solutions while improving problem-solving skills in **data structures** and **algorithms**.  
+📁 This repository contains my solutions to **LeetCode** problems in **Java** and **Python**, neatly organised in the order in which I solved the problems. My goal is to document clear, efficient solutions while improving problem-solving skills in **data structures** and **algorithms**.  
 
 ✨ Features:
 - ✅ Solutions in both **Java** and **Python** (where available).
 - ✅ Categorized by **topic** and **difficulty** for easy navigation.
 - ✅ Marked with `***` if I plan to revisit for an improved solution.
+- ✅ Marked with `?` if I am in the process for finding a solution. 
   
 ## Order Completed 
   
@@ -39,11 +39,15 @@
 | 875 | Koko Eating Bananas                      | ![Medium](https://img.shields.io/badge/Medium-orange) | Array, Binary Search | [Java](Java/KokoEatingBananas.java)                                              |
 | 153 | Find Minimum In Rotated Sorted Array     | ![Medium](https://img.shields.io/badge/Medium-orange) | Array, Binary Search | [Java](Java/FindMinimumInRotatedSortedArray.java)                                |
 |  33 | Search In Rotated Sorted Array           | ![Medium](https://img.shields.io/badge/Medium-orange) | Array, Binary Search | [Java](Java/SearchInRotatedSortedArray.java)                                     |
-| 981 | Time Based Key-Value Store ***           | ![Medium](https://img.shields.io/badge/Medium-orange) |                      |                                                                                  |
+| 981 | Time Based Key-Value Store ?             | ![Medium](https://img.shields.io/badge/Medium-orange) |                      |                                                                                  |
 |   4 | Median Of Two Sorted Arrays ***          | ![Hard](https://img.shields.io/badge/Hard-%238B0000)  | Array | [Java](Java/MedianOfTwoSortedArrays.java)                                                       |
 | 121 | Best Time to Buy And Sell Stock          | ![Easy](https://img.shields.io/badge/Easy-green)      | Array, Sliding Window | [Java](Java/BestTimeToBuyAndSellStock.java)                                     |
 |   3 | Longest Substring Without Repeating Characters  | ![Medium](https://img.shields.io/badge/Medium-orange) | Sliding Window, HashSet, HashMap | [Java](Java/LongestSubstringWithoutRepeatingCharacters.java) | 
 | 424 | Longest Repeating Character Replacement  | ![Medium](https://img.shields.io/badge/Medium-orange) | Sliding Window | [Java](Java/LongestRepeatingCharacterReplacement.java)                                |
+| 567 | Permutation In String ?                  | ![Medium](https://img.shields.io/badge/Medium-orange) |                 |                                                                                       |
+|  76 | Minimum Window Substring ?               | ![Hard](https://img.shields.io/badge/Hard-%238B0000)  |                 |                                                                                       |
+| 239 | Sliding Window Maximum ?                 | ![Hard](https://img.shields.io/badge/Hard-%238B0000)  |                 |                                                                                       |
+| 206 | Reverse Linked List ?                    | ![Easy](https://img.shields.io/badge/Easy-green)      |                 |                                                                                       |
 
 
 ## By Topic 
@@ -217,5 +221,4 @@
 
 </details>
 
-<h4> Key </h4>
-*** = Come back for a better performing solution 
+
