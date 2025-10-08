@@ -41,13 +41,23 @@
 |  33 | Search In Rotated Sorted Array           | ![Medium](https://img.shields.io/badge/Medium-orange) | Array, Binary Search | [Java](Java/SearchInRotatedSortedArray.java)                                     |
 | 981 | Time Based Key-Value Store ?             | ![Medium](https://img.shields.io/badge/Medium-orange) |                      |                                                                                  |
 |   4 | Median Of Two Sorted Arrays ***          | ![Hard](https://img.shields.io/badge/Hard-%238B0000)  | Array | [Java](Java/MedianOfTwoSortedArrays.java)                                                       |
-| 121 | Best Time to Buy And Sell Stock          | ![Easy](https://img.shields.io/badge/Easy-green)      | Array, Sliding Window | [Java](Java/BestTimeToBuyAndSellStock.java)                                     |
+| 121 | Best Time To Buy And Sell Stock          | ![Easy](https://img.shields.io/badge/Easy-green)      | Array, Sliding Window | [Java](Java/BestTimeToBuyAndSellStock.java)                                     |
 |   3 | Longest Substring Without Repeating Characters  | ![Medium](https://img.shields.io/badge/Medium-orange) | Sliding Window, HashSet, HashMap | [Java](Java/LongestSubstringWithoutRepeatingCharacters.java) | 
 | 424 | Longest Repeating Character Replacement  | ![Medium](https://img.shields.io/badge/Medium-orange) | Sliding Window | [Java](Java/LongestRepeatingCharacterReplacement.java)                                |
 | 567 | Permutation In String ?                  | ![Medium](https://img.shields.io/badge/Medium-orange) |                 |                                                                                       |
 |  76 | Minimum Window Substring ?               | ![Hard](https://img.shields.io/badge/Hard-%238B0000)  |                 |                                                                                       |
 | 239 | Sliding Window Maximum ?                 | ![Hard](https://img.shields.io/badge/Hard-%238B0000)  |                 |                                                                                       |
-| 206 | Reverse Linked List ?                    | ![Easy](https://img.shields.io/badge/Easy-green)      |                 |                                                                                       |
+| 206 | Reverse Linked List                      | ![Easy](https://img.shields.io/badge/Easy-green)      | Linked List     | [Java](Java/ReverseLinkedList.java)                                                   |
+|  21 | Merge Two Sorted Lists                   | ![Easy](https://img.shields.io/badge/Easy-green)      | Linked List     | [Java](Java/MergeTwoSortedLists.java)                                                 |
+| 141 | Linked List Cycle                        | ![Easy](https://img.shields.io/badge/Easy-green)      | Linked List, Two Pointers | [Java](Java/LinkedListCycle.java)                                           |
+| 143 | Reorder List                             | ![Medium](https://img.shields.io/badge/Medium-orange) | Linked List, Two Pointers | [Java](Java/ReorderList.java)                                               |
+|  19 | Remove Nth Node From End Of List         | ![Medium](https://img.shields.io/badge/Medium-orange) | Linked List     | [Java](Java/RemoveNthNodeFromEndOfList.java)                                          |
+| 138 | Copy List with Random Pointer            | ![Medium](https://img.shields.io/badge/Medium-orange) |                 |                                                                                       |
+|   2 | Add Two Numbers                          | ![Medium](https://img.shields.io/badge/Medium-orange) |                 |                                                                                       |
+| 287 | Find The Duplicate Number                | ![Medium](https://img.shields.io/badge/Medium-orange) |                 |                                                                                       |
+| 146 | LRU Cache                                | ![Medium](https://img.shields.io/badge/Medium-orange) |                 |                                                                                       |
+|  23 | Merge K Sorted Lists                     | ![Hard](https://img.shields.io/badge/Hard-%238B0000)  |                 |                                                                                       |
+|  25 | Reverse Nodes In K-Group                 | ![Hard](https://img.shields.io/badge/Hard-%238B0000)  |                 |                                                                                       |
 
 
 ## By Topic 
@@ -183,6 +193,8 @@
 | 15  | 3Sum                                     | Medium     | [Java](Java/3Sum.java)                                                                     |
 | 11  | Container With Most Water                | Medium     | [Java](Java/ContainerWithMostWater.java)                                                   |
 | 42  | Trapping Rain Water                      | Hard       | [Java](Java/TrappingRainWater.java)                                                        |
+| 141 | Linked List Cycle                        | Easy       | [Java](Java/LinkedListCycle.java)                                                          |
+| 143 | Reorder List                             | Medium     | [Java](Java/ReorderList.java)                                                              |
 
 </details>
 
@@ -214,11 +226,24 @@
 <details>
 <summary><i> Sliding Window </i></summary>
   
-| #   | Title                                    | Difficulty | Solution File                                                                               |
-|-----|------------------------------------------|------------|---------------------------------------------------------------------------------------------|
-|   3 | Longest Substring Without Repeating Characters  | Medium | [Java](Java/LongestSubstringWithoutRepeatingCharacters.java)                             | 
-| 424 | Longest Repeating Character Replacement  | Medium | [Java](Java/LongestRepeatingCharacterReplacement.java)                                          |
+| #   | Title                                           | Difficulty | Solution File                                                                         |
+|-----|-------------------------------------------------|------------|---------------------------------------------------------------------------------------|
+|   3 | Longest Substring Without Repeating Characters  | Medium     | [Java](Java/LongestSubstringWithoutRepeatingCharacters.java)                          | 
+| 424 | Longest Repeating Character Replacement         | Medium     | [Java](Java/LongestRepeatingCharacterReplacement.java)                                |
 
 </details>
 
+
+<details>
+<summary><i> Linked List </i></summary>
+  
+| #   | Title                                    | Difficulty | Solution File                                                                               |
+|-----|------------------------------------------|------------|---------------------------------------------------------------------------------------------|
+| 206 | Reverse Linked List                      | Easy       | [Java](Java/ReverseLinkedList.java)                                                         |
+|  21 | Merge Two Sorted Lists                   | Easy       | [Java](Java/MergeTwoSortedLists.java)                                                       |
+| 141 | Linked List Cycle                        | Easy       | [Java](Java/LinkedListCycle.java)                                                           |
+| 143 | Reorder List                             | Medium     | [Java](Java/ReorderList.java)                                                               |
+|  19 | Remove Nth Node From End Of List         | Medium     | [Java](Java/RemoveNthNodeFromEndOfList.java)                                                |
+
+</details>
 
