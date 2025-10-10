@@ -2,18 +2,6 @@
 //                         MERGE K SORTED LISTS                          //
 
 
-// Logic:
-// -> Find the length of the lists array
-// -> If the length is 0, return null
-// -> Initialize a count variable to 1 and set current to the first list
-// -> While count is less than the length of the lists array, merge the 
-//    current list with the next list using the Merge Two Sorted Lists as 
-//    a helper function
-// -> Increment the count
-// -> Continue this process until all lists are merged
-// -> Return the merged list when count equals the length of the lists array
-
-
 /**
  * Definition for singly-linked list.
  * public class ListNode {
@@ -24,6 +12,18 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
+
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Attempt #1~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~//
+// Logic:
+// -> Find the length of the lists array
+// -> If the length is 0, return null
+// -> Initialize a count variable to 1 and set current to the first list
+// -> While count is less than the length of the lists array, merge the 
+//    current list with the next list using the Merge Two Sorted Lists as 
+//    a helper function
+// -> Increment the count
+// -> Continue this process until all lists are merged
+// -> Return the merged list when count equals the length of the lists array
 
 
 import java.util.*;
@@ -84,3 +84,77 @@ class Solution {
 //    - Each merge operation takes O(N + N) = O(2N) => O(N)
 //    - So total complexity = 
 //      O((k-1) * N) => O(k * N)
+
+
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Attempt #2~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~//
+// Logic:
+// -> Find the length of the lists array
+// -> If the length is 0, return null
+// -> Else call the mergeRange function with the lists array, left index as
+//    0, and right index as length - 1
+// -> In the mergeRange function, use a divide and conquer approach
+// -> Base case: If left equals right, return the list at that index 
+// -> Find the mid index
+// -> Recursively call mergeRange for the left half and right half of the lists
+//    array
+// -> Merge the two halves using the Merge Two Sorted Lists as a helper function
+// -> Return the merged list
+
+
+import java.util.*;
+
+class Solution {
+    public ListNode mergeKLists(ListNode[] lists) {
+        int length = lists.length;
+        if(length == 0) {
+            return null; 
+        }
+        ListNode result = mergeRange(lists, 0, length - 1);  
+
+        return result; 
+    } 
+
+    private ListNode mergeRange(ListNode[] lists, int left, int right) {
+        if(left == right) {
+            return lists[left]; 
+        }
+        int mid = (left + right)/2; 
+        ListNode leftMerged = mergeRange(lists, left, mid);
+        ListNode rightMerged = mergeRange(lists, mid+1, right);
+
+        return mergeTwoLists(leftMerged, rightMerged);
+    }
+
+    public ListNode mergeTwoLists(ListNode list1, ListNode list2) {
+        ListNode dummy = new ListNode(0);
+        ListNode current = dummy;
+
+        while (list1 != null && list2 != null) {
+            if (list1.val <= list2.val) {
+                current.next = list1;
+                list1 = list1.next;
+            } else {
+                current.next = list2;
+                list2 = list2.next;
+            }
+            current = current.next;
+        }
+
+        if (list1 != null) {
+            current.next = list1;
+        } else {
+            current.next = list2;
+        }
+
+        return dummy.next; 
+    }
+}
+
+
+// Time Complexity:
+// -> Merging two lists: O(n + m)
+//   where n and m are the lengths of the two lists being merged
+// -> Dividing the lists array into halves using the mergeRange function: O(log k)
+//    - At each level, all n nodes across all lists are merged once: O(n)
+// Overall, O(n) * O(log k) 
+// => O(n log k)
