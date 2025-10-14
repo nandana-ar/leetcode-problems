@@ -12,19 +12,19 @@
   
 | #   | Title                                    | Difficulty                                            | Topic  | Solution Files                                                                                 |
 |-----|------------------------------------------|-------------------------------------------------------|--------|------------------------------------------------------------------------------------------------|
-| 217 | Contains Duplicate                       | ![Easy](https://img.shields.io/badge/Easy-green)      | Arrays | [Java](Java/ContainsDuplicate.java) [Python](Python/ContainsDuplicate.py)                      |
-| 268 | Missing Number                           | ![Easy](https://img.shields.io/badge/Easy-green)      | Arrays | [Java](Java/MissingNumber.java) [Python](Python/MissingNumber.py)                              |
-| 448 | Find All Numbers Disappeared In An Array | ![Easy](https://img.shields.io/badge/Easy-green)      | Arrays | [Java](Java/FindAllNumbersDisappearedInAnArray.java) [Python](Python/FindAllNumbersDisappearedInAnArray.py) | 
-| 242 | Valid Anagram                            | ![Easy](https://img.shields.io/badge/Easy-green)      | Arrays | [Java](Java/ValidAnagram.java) [Python](Python/ValidAnagram.py)                                |
-|   1 | Two Sum                                  | ![Easy](https://img.shields.io/badge/Easy-green)      | Arrays | [Java](Java/TwoSum.java) [Python](Python/TwoSum.py)                                            |
-|  49 | Group Anagrams                           | ![Medium](https://img.shields.io/badge/Medium-orange) | Arrays, Hash Maps |  [Java](Java/GroupAnagrams.java)                                                    |
-| 347 | Top K Frequent Elements                  | ![Medium](https://img.shields.io/badge/Medium-orange) | Arrays, Hash Maps, Heaps | [Java](Java/TopKFrequentElements.java)                                       |
-| 238 | Product Of Array Except Self             | ![Medium](https://img.shields.io/badge/Medium-orange) | Arrays, Prefix Sum | [Java](Java/ProductOfArrayExceptSelf.java)                                         |
-|  36 | Valid Sudoku                             | ![Medium](https://img.shields.io/badge/Medium-orange) | Arrays, Hash Sets | [Java](Java/ValidSudoku.java)                                                       |
-| 128 | Longest Consecutive Sequence             | ![Medium](https://img.shields.io/badge/Medium-orange) | Arrays, Hash Sets | [Java](Java/LongestConsecutiveSequence.java)                                        |
+| 217 | Contains Duplicate                       | ![Easy](https://img.shields.io/badge/Easy-green)      | Array  | [Java](Java/ContainsDuplicate.java) [Python](Python/ContainsDuplicate.py)                      |
+| 268 | Missing Number                           | ![Easy](https://img.shields.io/badge/Easy-green)      | Array  | [Java](Java/MissingNumber.java) [Python](Python/MissingNumber.py)                              |
+| 448 | Find All Numbers Disappeared In An Array | ![Easy](https://img.shields.io/badge/Easy-green)      | Array  | [Java](Java/FindAllNumbersDisappearedInAnArray.java) [Python](Python/FindAllNumbersDisappearedInAnArray.py) | 
+| 242 | Valid Anagram                            | ![Easy](https://img.shields.io/badge/Easy-green)      | Array  | [Java](Java/ValidAnagram.java) [Python](Python/ValidAnagram.py)                                |
+|   1 | Two Sum                                  | ![Easy](https://img.shields.io/badge/Easy-green)      | Array  | [Java](Java/TwoSum.java) [Python](Python/TwoSum.py)                                            |
+|  49 | Group Anagrams                           | ![Medium](https://img.shields.io/badge/Medium-orange) | Array, Hash Map |  [Java](Java/GroupAnagrams.java)                                                      |
+| 347 | Top K Frequent Elements                  | ![Medium](https://img.shields.io/badge/Medium-orange) | Array, Hash Map, Heap | [Java](Java/TopKFrequentElements.java)                                          |
+| 238 | Product Of Array Except Self             | ![Medium](https://img.shields.io/badge/Medium-orange) | Array, Prefix Sum | [Java](Java/ProductOfArrayExceptSelf.java)                                          |
+|  36 | Valid Sudoku                             | ![Medium](https://img.shields.io/badge/Medium-orange) | Array, Hash Set | [Java](Java/ValidSudoku.java)                                                         |
+| 128 | Longest Consecutive Sequence             | ![Medium](https://img.shields.io/badge/Medium-orange) | Array, Hash Set | [Java](Java/LongestConsecutiveSequence.java)                                          |
 | 125 | Valid Palindrome                         | ![Easy](https://img.shields.io/badge/Easy-green)      | Two Pointers, String | [Java](Java/ValidPalindrome.java)                                                |
 | 167 | Two Sum II: Input Array Is Sorted        | ![Medium](https://img.shields.io/badge/Medium-orange) | Two Pointers | [Java](Java/TwoSumII.java)                                                               |
-|  15 | 3Sum                                     | ![Medium](https://img.shields.io/badge/Medium-orange) | Arrays, Two Pointers | [Java](Java/3Sum.java)                                                           |
+|  15 | 3Sum                                     | ![Medium](https://img.shields.io/badge/Medium-orange) | Array, Two Pointers | [Java](Java/3Sum.java)                                                            |
 |  11 | Container With Most Water                | ![Medium](https://img.shields.io/badge/Medium-orange) | Two Pointers | [Java](Java/ContainerWithMostWater.java)                                                 |
 |  42 | Trapping Rain Water                      | ![Hard](https://img.shields.io/badge/Hard-%238B0000)  | Two Pointers | [Java](Java/TrappingRainWater.java)                                                      |
 |  20 | Valid Parentheses                        | ![Easy](https://img.shields.io/badge/Easy-green)      | Stack, String | [Java](Java/ValidParentheses.java)                                                      |
@@ -33,7 +33,7 @@
 |  22 | Generate Parentheses                     | ![Medium](https://img.shields.io/badge/Medium-orange) | Stack, List, String | [Java](Java/GenerateParentheses.java)                                             |
 | 739 | Daily Temperatures                       | ![Medium](https://img.shields.io/badge/Medium-orange) | Array, Stack, Monotonic Stack | [Java](Java/DailyTemperatures.java)                                     |
 | 853 | Car Fleet ***                            | ![Medium](https://img.shields.io/badge/Medium-orange) | Array, Sorting | [Java](Java/CarFleet.java)                                                             |
-|  84 | Largest Rectangle In Histogram ***       | ![Hard](https://img.shields.io/badge/Hard-%238B0000)  | Array | [Java](Java/LargestRectangleInHistogram.java)                                                  |
+|  84 | Largest Rectangle In Histogram ***       | ![Hard](https://img.shields.io/badge/Hard-%238B0000)  | Array | [Java](Java/LargestRectangleInHistogram.java)                                                   |
 | 704 | Binary Search                            | ![Easy](https://img.shields.io/badge/Easy-green)      | Array, Binary Search | [Java](Java/BinarySearch.java)                                                  | 
 |  74 | Search a 2D Matrix                       | ![Medium](https://img.shields.io/badge/Medium-orange) | Array, Binary Search | [Java](Java/SearchA2DMatrix.java)                                               | 
 | 875 | Koko Eating Bananas                      | ![Medium](https://img.shields.io/badge/Medium-orange) | Array, Binary Search | [Java](Java/KokoEatingBananas.java)                                              |
@@ -42,7 +42,7 @@
 | 981 | Time Based Key-Value Store ?             | ![Medium](https://img.shields.io/badge/Medium-orange) |                      |                                                                                  |
 |   4 | Median Of Two Sorted Arrays ***          | ![Hard](https://img.shields.io/badge/Hard-%238B0000)  | Array | [Java](Java/MedianOfTwoSortedArrays.java)                                                       |
 | 121 | Best Time To Buy And Sell Stock          | ![Easy](https://img.shields.io/badge/Easy-green)      | Array, Sliding Window | [Java](Java/BestTimeToBuyAndSellStock.java)                                     |
-|   3 | Longest Substring Without Repeating Characters  | ![Medium](https://img.shields.io/badge/Medium-orange) | Sliding Window, HashSet, HashMap | [Java](Java/LongestSubstringWithoutRepeatingCharacters.java) | 
+|   3 | Longest Substring Without Repeating Characters| ![Medium](https://img.shields.io/badge/Medium-orange) | Sliding Window, Hash Set, Hash Map | [Java](Java/LongestSubstringWithoutRepeatingCharacters.java) | 
 | 424 | Longest Repeating Character Replacement  | ![Medium](https://img.shields.io/badge/Medium-orange) | Sliding Window | [Java](Java/LongestRepeatingCharacterReplacement.java)                                |
 | 567 | Permutation In String ?                  | ![Medium](https://img.shields.io/badge/Medium-orange) |                 |                                                                                       |
 |  76 | Minimum Window Substring ?               | ![Hard](https://img.shields.io/badge/Hard-%238B0000)  |                 |                                                                                       |
@@ -53,17 +53,17 @@
 | 143 | Reorder List                             | ![Medium](https://img.shields.io/badge/Medium-orange) | Linked List, Two Pointers | [Java](Java/ReorderList.java)                                               |
 |  19 | Remove Nth Node From End Of List         | ![Medium](https://img.shields.io/badge/Medium-orange) | Linked List     | [Java](Java/RemoveNthNodeFromEndOfList.java)                                          |
 | 138 | Copy List with Random Pointer            | ![Medium](https://img.shields.io/badge/Medium-orange) |                 |                                                                                       |
-|   2 | Add Two Numbers                          | ![Medium](https://img.shields.io/badge/Medium-orange) |                 |                                                                                       |
-| 287 | Find The Duplicate Number                | ![Medium](https://img.shields.io/badge/Medium-orange) |                 |                                                                                       |
-| 146 | LRU Cache                                | ![Medium](https://img.shields.io/badge/Medium-orange) |                 |                                                                                       |
-|  23 | Merge K Sorted Lists                     | ![Hard](https://img.shields.io/badge/Hard-%238B0000)  |                 |                                                                                       |
+|   2 | Add Two Numbers                          | ![Medium](https://img.shields.io/badge/Medium-orange) | Linked List     | [Java](Java/AddTwoNumbers.java)                                                       |
+| 287 | Find The Duplicate Number                | ![Medium](https://img.shields.io/badge/Medium-orange) | Array, Two Pointers | [Java](Java/FindTheDuplicateNumber.java)                                          |
+| 146 | LRU Cache                                | ![Medium](https://img.shields.io/badge/Medium-orange) | Linked List, Hash Map | [Java](Java/LRUCache.java)                                                      |
+|  23 | Merge K Sorted Lists                     | ![Hard](https://img.shields.io/badge/Hard-%238B0000)  | Linked List, Divide And Conquer| [Java](Java/MergeKSortedLists.java)                                    |
 |  25 | Reverse Nodes In K-Group                 | ![Hard](https://img.shields.io/badge/Hard-%238B0000)  |                 |                                                                                       |
 
 
 ## By Topic 
 
 <details>
-<summary><i>Array</i></summary>
+<summary><i> Array </i></summary>
   
 | #   | Title                                    | Difficulty | Solution File                                                                                               |
 |-----|------------------------------------------|------------|-------------------------------------------------------------------------------------------------------------|
@@ -88,7 +88,7 @@
 |  33 | Search In Rotated Sorted Array           | Medium     | [Java](Java/SearchInRotatedSortedArray.java)                                                                |  
 |   4 | Median Of Two Sorted Arrays              | Hard       | [Java](Java/MedianOfTwoSortedArrays.java)                                                                   |
 | 121 | Best Time to Buy And Sell Stock          | Easy       | [Java](Java/BestTimeToBuyAndSellStock.java)                                                                 |
-
+| 287 | Find The Duplicate Number                | Medium     | [Java](Java/FindTheDuplicateNumber.java)                                                                    |
 
 </details>
 
@@ -104,19 +104,20 @@
 
 
 <details>
-<summary><i> Hash Maps </i> </summary>
+<summary><i> Hash Map </i> </summary>
   
 | #   | Title                                    | Difficulty | Solution File                                                                              |
 |-----|------------------------------------------|------------|--------------------------------------------------------------------------------------------|
 |  49 | Group Anagrams                           | Medium     |  [Java](Java/GroupAnagrams.java)                                                           |
 | 347 | Top K Frequent Elements                  | Medium     | [Java](Java/TopKFrequentElements.java)                                                     |
 |   3 | Longest Substring Without Repeating Characters| Medium | [Java](Java/LongestSubstringWithoutRepeatingCharacters.java)                              |
+| 146 | LRU Cache                                | Medium     | [Java](Java/LRUCache.java)                                                                 |
 
 </details>
 
 
 <details>
-<summary><i> Hash Sets </i> </summary>
+<summary><i> Hash Set </i> </summary>
   
 | #   | Title                                    | Difficulty | Solution File                                                                              |
 |-----|------------------------------------------|------------|--------------------------------------------------------------------------------------------|
@@ -128,7 +129,7 @@
 
 
 <details>
-<summary><i> Heaps </i> </summary>
+<summary><i> Heap </i> </summary>
 
 | #   | Title                                    | Difficulty | Solution File                                                                              |
 |-----|------------------------------------------|------------|--------------------------------------------------------------------------------------------|
@@ -195,6 +196,8 @@
 | 42  | Trapping Rain Water                      | Hard       | [Java](Java/TrappingRainWater.java)                                                        |
 | 141 | Linked List Cycle                        | Easy       | [Java](Java/LinkedListCycle.java)                                                          |
 | 143 | Reorder List                             | Medium     | [Java](Java/ReorderList.java)                                                              |
+| 287 | Find The Duplicate Number                | Medium     | [Java](Java/FindTheDuplicateNumber.java)                                                   |
+
 
 </details>
 
@@ -244,6 +247,19 @@
 | 141 | Linked List Cycle                        | Easy       | [Java](Java/LinkedListCycle.java)                                                           |
 | 143 | Reorder List                             | Medium     | [Java](Java/ReorderList.java)                                                               |
 |  19 | Remove Nth Node From End Of List         | Medium     | [Java](Java/RemoveNthNodeFromEndOfList.java)                                                |
+|   2 | Add Two Numbers                          | Medium     | [Java](Java/AddTwoNumbers.java)                                                             |
+| 146 | LRU Cache                                | Medium     | [Java](Java/LRUCache.java)                                                                  |
+|  23 | Merge K Sorted Lists                     | Hard       | [Java](Java/MergeKSortedLists.java)                                                         |
+
+</details>
+
+
+<details>
+<summary><i> Divide And Conquer </i></summary>
+  
+| #   | Title                                    | Difficulty | Solution File                                                                               |
+|-----|------------------------------------------|------------|---------------------------------------------------------------------------------------------|
+|  23 | Merge K Sorted Lists                     | Hard       | [Java](Java/MergeKSortedLists.java)                                                         |
 
 </details>
 
