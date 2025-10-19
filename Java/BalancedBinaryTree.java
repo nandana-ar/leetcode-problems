@@ -2,6 +2,7 @@
 //                         BALANCED BINARY TREE                           //
 
 
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Attempt #1~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~//
 // Logic:
 // -> Define a helper class BalanceStatusWithHeight to store balance 
 //    status and height of a subtree
@@ -73,3 +74,52 @@ public class BalancedBinaryTree {
 // -> Each node is visited once (Recursion): O(n)
 // -> Assignment and comparison operations : O(1)
 // => O(n)
+
+
+//~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Attempt #2~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~//
+// Logic:
+// -> Create a recursive function checkHeight that returns the height of
+//    a subtree or -1 if it is unbalanced
+// -> For each node:
+//    - if it is null, return 0
+//    - recursively check the heights of the left and right subtrees
+//    - if either subtree is unbalanced, return -1
+//    - if the difference in heights is greater than 1, return -1
+//    - otherwise, return the height of the subtree
+// -> The main function isBalanced calls checkHeight on the root
+// -> Returns true if the tree is balanced (not -1), false otherwise
+
+
+public class Solution {
+
+    private int checkHeight(TreeNode node) {
+        if(node == null) 
+            return 0; 
+
+        int leftHeight = checkHeight(node.left); 
+        if(leftHeight == -1) 
+            return -1; 
+
+        int rightHeight = checkHeight(node.right); 
+        if(rightHeight == -1) 
+            return -1; 
+    
+        if (Math.abs(leftHeight - rightHeight) > 1) 
+            return -1;
+
+        return Math.max(leftHeight, rightHeight) + 1;
+    }
+
+    public boolean isBalanced(TreeNode root) {
+        return checkHeight(root) != -1;
+    }
+}
+
+
+// Time Complexity:
+// -> Each node is visited once (Recursion): O(n)
+// -> Assignment and comparison operations : O(1)
+// => O(n)
+
+// Note: The second attempt is more space efficient as it does not require
+// the additional BalanceStatusWithHeight class.
