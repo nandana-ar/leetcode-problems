@@ -58,6 +58,12 @@
 | 146 | LRU Cache                                | ![Medium](https://img.shields.io/badge/Medium-orange) | Linked List, Hash Map | [Java](Java/LRUCache.java)                                                      |
 |  23 | Merge K Sorted Lists                     | ![Hard](https://img.shields.io/badge/Hard-%238B0000)  | Linked List, Divide And Conquer| [Java](Java/MergeKSortedLists.java)                                    |
 |  25 | Reverse Nodes In K-Group                 | ![Hard](https://img.shields.io/badge/Hard-%238B0000)  |                 |                                                                                       |
+| 226 | Invert Binary Tree                       | ![Easy](https://img.shields.io/badge/Easy-green)      | Tree, DFS |  [Java](Java/InvertBinaryTree.java)                                                         |
+| 104 | Maximum Depth Of Binary Tree             | ![Easy](https://img.shields.io/badge/Easy-green)      | Tree, DFS |  [Java](Java/MaximumDepthOfBinaryTree.java)                                                 |
+| 543 | Diameter Of Binary Tree                  | ![Easy](https://img.shields.io/badge/Easy-green)      | Tree, DFS |  [Java](Java/DiameterOfBinaryTree.java)                                                     |
+| 110 | Balanced Binary Tree                     | ![Easy](https://img.shields.io/badge/Easy-green)      | Tree, DFS |  [Java](Java/BalancedBinaryTree.java)                                                       |
+| 100 | Same Tree                                | ![Easy](https://img.shields.io/badge/Easy-green)      | Tree, DFS |  [Java](Java/SameTree.java)                                                                 |
+| 572 | Subtree Of Another Tree                  | ![Easy](https://img.shields.io/badge/Easy-green)      | Tree, DFS |  [Java](Java/SubtreeOfAnotherTree.java)                                                     |
 
 
 ## By Topic 
@@ -260,6 +266,36 @@
 | #   | Title                                    | Difficulty | Solution File                                                                               |
 |-----|------------------------------------------|------------|---------------------------------------------------------------------------------------------|
 |  23 | Merge K Sorted Lists                     | Hard       | [Java](Java/MergeKSortedLists.java)                                                         |
+
+</details>
+
+
+<details> 
+<summary><i> Tree </i></summary>
+
+| #   | Title                                    | Difficulty | Solution File                                                                               |
+|-----|------------------------------------------|------------|---------------------------------------------------------------------------------------------|
+| 226 | Invert Binary Tree                       | Easy       | [Java](Java/InvertBinaryTree.java)                                                          |
+| 104 | Maximum Depth Of Binary Tree             | Easy       | [Java](Java/MaximumDepthOfBinaryTree.java)                                                  |
+| 543 | Diameter Of Binary Tree                  | Easy       | [Java](Java/DiameterOfBinaryTree.java)                                                      |
+| 110 | Balanced Binary Tree                     | Easy       | [Java](Java/BalancedBinaryTree.java)                                                        |
+| 100 | Same Tree                                | Easy       | [Java](Java/SameTree.java)                                                                  |
+| 572 | Subtree Of Another Tree                  | Easy       | [Java](Java/SubtreeOfAnotherTree.java)                                                      |
+
+</details>
+
+
+<details> 
+<summary><i> DFS </i></summary>
+
+| #   | Title                                    | Difficulty | Solution File                                                                               |
+|-----|------------------------------------------|------------|---------------------------------------------------------------------------------------------|
+| 226 | Invert Binary Tree                       | Easy       | [Java](Java/InvertBinaryTree.java)                                                          |
+| 104 | Maximum Depth Of Binary Tree             | Easy       | [Java](Java/MaximumDepthOfBinaryTree.java)                                                  |
+| 543 | Diameter Of Binary Tree                  | Easy       | [Java](Java/DiameterOfBinaryTree.java)                                                      |
+| 110 | Balanced Binary Tree                     | Easy       | [Java](Java/BalancedBinaryTree.java)                                                        |
+| 100 | Same Tree                                | Easy       | [Java](Java/SameTree.java)                                                                  |
+| 572 | Subtree Of Another Tree                  | Easy       | [Java](Java/SubtreeOfAnotherTree.java)                                                      |
 
 </details>
 
