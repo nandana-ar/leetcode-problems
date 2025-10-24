@@ -64,7 +64,7 @@
 | 110 | Balanced Binary Tree                     | ![Easy](https://img.shields.io/badge/Easy-green)      | Tree, DFS |  [Java](Java/BalancedBinaryTree.java)                                                       |
 | 100 | Same Tree                                | ![Easy](https://img.shields.io/badge/Easy-green)      | Tree, DFS |  [Java](Java/SameTree.java)                                                                 |
 | 572 | Subtree Of Another Tree                  | ![Easy](https://img.shields.io/badge/Easy-green)      | Tree, DFS |  [Java](Java/SubtreeOfAnotherTree.java)                                                     |
-
+| 101 | Symmetric Tree                           | ![Easy](https://img.shields.io/badge/Easy-green)      | Tree, DFS |  [Java](Java/SymmetricTree.java)                                                            |
 
 ## By Topic 
 
@@ -281,6 +281,7 @@
 | 110 | Balanced Binary Tree                     | Easy       | [Java](Java/BalancedBinaryTree.java)                                                        |
 | 100 | Same Tree                                | Easy       | [Java](Java/SameTree.java)                                                                  |
 | 572 | Subtree Of Another Tree                  | Easy       | [Java](Java/SubtreeOfAnotherTree.java)                                                      |
+| 101 | Symmetric Tree                           | Easy       |  [Java](Java/SymmetricTree.java)                                                            |
 
 </details>
 
@@ -296,6 +297,7 @@
 | 110 | Balanced Binary Tree                     | Easy       | [Java](Java/BalancedBinaryTree.java)                                                        |
 | 100 | Same Tree                                | Easy       | [Java](Java/SameTree.java)                                                                  |
 | 572 | Subtree Of Another Tree                  | Easy       | [Java](Java/SubtreeOfAnotherTree.java)                                                      |
+| 101 | Symmetric Tree                           | Easy       |  [Java](Java/SymmetricTree.java)                                                            |
 
 </details>
 
