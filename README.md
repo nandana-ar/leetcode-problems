@@ -66,13 +66,13 @@
 |  100 | Same Tree                               | ![Easy](https://img.shields.io/badge/Easy-green)      | Tree, DFS |  [Java](Java/SameTree.java)                                                                 |
 |  572 | Subtree Of Another Tree                 | ![Easy](https://img.shields.io/badge/Easy-green)      | Tree, DFS |  [Java](Java/SubtreeOfAnotherTree.java)                                                     |
 |  101 | Symmetric Tree                          | ![Easy](https://img.shields.io/badge/Easy-green)      | Tree, DFS |  [Java](Java/SymmetricTree.java)                                                            |
-|  235 |
-|  102 |
-|  199 |
-| 1448 |
-|   98 |
-|  230 |
-| 1008 |
+|  235 | Lowest Common Ancestor Of Binary Search Tree | ![Medium](https://img.shields.io/badge/Medium-orange) | Tree, DFS |  [Java](Java/LowestCommonAncestorOfBinarySearchTree.java)                              |
+|  102 | Binary Tree Level Order Traversal       | ![Medium](https://img.shields.io/badge/Medium-orange) | Tree, BFS | [Java](Java/BinaryTreeLevelOrderTraversal.java)                                             |
+|  199 | Binary Tree Right Side View             | ![Medium](https://img.shields.io/badge/Medium-orange) | Tree, BFS | [Java](Java/BinaryTreeRightSideView.java)                                                   |
+| 1448 | Count Good Nodes In Binary Tree         | ![Medium](https://img.shields.io/badge/Medium-orange) | Tree, DFS | [Java](Java/CountGoodNodesInBinaryTree.java)                                                |
+|   98 | Validate Binary Search Tree             | ![Medium](https://img.shields.io/badge/Medium-orange) | Tree, DFS | [Java](Java/ValidateBinarySearchTree.java)                                                  |
+|  230 | Kth Smallest Element In A BST           | ![Medium](https://img.shields.io/badge/Medium-orange) | Tree, DFS | [Java](Java/KthSmallestElementInABST.java)                                                  |
+| 1008 | Construct Binary Search Tree From Preorder Traversal |![Medium](https://img.shields.io/badge/Medium-orange) | Tree | [Java](Java/ConstructBinarySearchTreeFromPreorderTraversal.java)                     |
 
 ## By Topic 
 
@@ -281,15 +281,22 @@
 <details> 
 <summary><i> Tree </i></summary>
 
-| #   | Title                                    | Difficulty | Solution File                                                                               |
-|-----|------------------------------------------|------------|---------------------------------------------------------------------------------------------|
-| 226 | Invert Binary Tree                       | Easy       | [Java](Java/InvertBinaryTree.java)                                                          |
-| 104 | Maximum Depth Of Binary Tree             | Easy       | [Java](Java/MaximumDepthOfBinaryTree.java)                                                  |
-| 543 | Diameter Of Binary Tree                  | Easy       | [Java](Java/DiameterOfBinaryTree.java)                                                      |
-| 110 | Balanced Binary Tree                     | Easy       | [Java](Java/BalancedBinaryTree.java)                                                        |
-| 100 | Same Tree                                | Easy       | [Java](Java/SameTree.java)                                                                  |
-| 572 | Subtree Of Another Tree                  | Easy       | [Java](Java/SubtreeOfAnotherTree.java)                                                      |
-| 101 | Symmetric Tree                           | Easy       |  [Java](Java/SymmetricTree.java)                                                            |
+| #    | Title                                    | Difficulty  | Solution File                                                                             |
+|------|------------------------------------------|-------------|-------------------------------------------------------------------------------------------|
+|  226 | Invert Binary Tree                       | Easy        | [Java](Java/InvertBinaryTree.java)                                                        |
+|  104 | Maximum Depth Of Binary Tree             | Easy        | [Java](Java/MaximumDepthOfBinaryTree.java)                                                |
+|  543 | Diameter Of Binary Tree                  | Easy        | [Java](Java/DiameterOfBinaryTree.java)                                                    |
+|  110 | Balanced Binary Tree                     | Easy        | [Java](Java/BalancedBinaryTree.java)                                                      |
+|  100 | Same Tree                                | Easy        | [Java](Java/SameTree.java)                                                                |
+|  572 | Subtree Of Another Tree                  | Easy        | [Java](Java/SubtreeOfAnotherTree.java)                                                    |
+|  101 | Symmetric Tree                           | Easy        | [Java](Java/SymmetricTree.java)                                                           |
+|  235 | Lowest Common Ancestor Of Binary Search Tree | Medium | [Java](Java/LowestCommonAncestorOfBinarySearchTree.java)                                   |
+|  102 | Binary Tree Level Order Traversal       | Medium      | [Java](Java/BinaryTreeLevelOrderTraversal.java)                                            |
+|  199 | Binary Tree Right Side View             | Medium      | [Java](Java/BinaryTreeRightSideView.java)                                                  |
+| 1448 | Count Good Nodes In Binary Tree         | Medium      | [Java](Java/CountGoodNodesInBinaryTree.java)                                               |
+|   98 | Validate Binary Search Tree             | Medium      | [Java](Java/ValidateBinarySearchTree.java)                                                 |
+|  230 | Kth Smallest Element In A BST           | Medium      | Tree, DFS | [Java](Java/KthSmallestElementInABST.java)                                     |
+| 1008 | Construct Binary Search Tree From Preorder Traversal | Medium | [Java](Java/ConstructBinarySearchTreeFromPreorderTraversal.java)                   |
 
 </details>
 
@@ -297,15 +304,38 @@
 <details> 
 <summary><i> DFS </i></summary>
 
-| #   | Title                                    | Difficulty | Solution File                                                                               |
-|-----|------------------------------------------|------------|---------------------------------------------------------------------------------------------|
-| 226 | Invert Binary Tree                       | Easy       | [Java](Java/InvertBinaryTree.java)                                                          |
-| 104 | Maximum Depth Of Binary Tree             | Easy       | [Java](Java/MaximumDepthOfBinaryTree.java)                                                  |
-| 543 | Diameter Of Binary Tree                  | Easy       | [Java](Java/DiameterOfBinaryTree.java)                                                      |
-| 110 | Balanced Binary Tree                     | Easy       | [Java](Java/BalancedBinaryTree.java)                                                        |
-| 100 | Same Tree                                | Easy       | [Java](Java/SameTree.java)                                                                  |
-| 572 | Subtree Of Another Tree                  | Easy       | [Java](Java/SubtreeOfAnotherTree.java)                                                      |
-| 101 | Symmetric Tree                           | Easy       |  [Java](Java/SymmetricTree.java)                                                            |
+| #    | Title                                    | Difficulty | Solution File                                                                               |
+|------|------------------------------------------|------------|---------------------------------------------------------------------------------------------|
+|  226 | Invert Binary Tree                       | Easy       | [Java](Java/InvertBinaryTree.java)                                                          |
+|  104 | Maximum Depth Of Binary Tree             | Easy       | [Java](Java/MaximumDepthOfBinaryTree.java)                                                  |
+|  543 | Diameter Of Binary Tree                  | Easy       | [Java](Java/DiameterOfBinaryTree.java)                                                      |
+|  110 | Balanced Binary Tree                     | Easy       | [Java](Java/BalancedBinaryTree.java)                                                        |
+|  100 | Same Tree                                | Easy       | [Java](Java/SameTree.java)                                                                  |
+|  572 | Subtree Of Another Tree                  | Easy       | [Java](Java/SubtreeOfAnotherTree.java)                                                      |
+|  101 | Symmetric Tree                           | Easy       | [Java](Java/SymmetricTree.java)                                                             |
+|  235 | Lowest Common Ancestor Of Binary Search Tree | Medium | [Java](Java/LowestCommonAncestorOfBinarySearchTree.java)                                    |
+| 1448 | Count Good Nodes In Binary Tree          | Medium     | [Java](Java/CountGoodNodesInBinaryTree.java)                                                |
+|   98 | Validate Binary Search Tree              | Medium     | [Java](Java/ValidateBinarySearchTree.java)                                                  |
+|  230 | Kth Smallest Element In A BST            | ![Medium](https://img.shields.io/badge/Medium-orange) | [Java](Java/KthSmallestElementInABST.java)       |
+
+
+</details>
+
+
+<details> 
+<summary><i> BFS </i></summary>
+
+| #    | Title                                    | Difficulty | Solution File                                                                               |
+|------|------------------------------------------|------------|---------------------------------------------------------------------------------------------|
+|  226 | Invert Binary Tree                       | Easy       | [Java](Java/InvertBinaryTree.java)                                                          |
+|  104 | Maximum Depth Of Binary Tree             | Easy       | [Java](Java/MaximumDepthOfBinaryTree.java)                                                  |
+|  543 | Diameter Of Binary Tree                  | Easy       | [Java](Java/DiameterOfBinaryTree.java)                                                      |
+|  110 | Balanced Binary Tree                     | Easy       | [Java](Java/BalancedBinaryTree.java)                                                        |
+|  100 | Same Tree                                | Easy       | [Java](Java/SameTree.java)                                                                  |
+|  572 | Subtree Of Another Tree                  | Easy       | [Java](Java/SubtreeOfAnotherTree.java)                                                      |
+|  101 | Symmetric Tree                           | Easy       | [Java](Java/SymmetricTree.java)                                                             |
+|  102 | Binary Tree Level Order Traversal        | Medium     | [Java](Java/BinaryTreeLevelOrderTraversal.java)                                             |
+|  199 | Binary Tree Right Side View              | Medium     | [Java](Java/BinaryTreeRightSideView.java)                                                   |
 
 </details>
 
