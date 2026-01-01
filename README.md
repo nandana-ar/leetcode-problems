@@ -1,17 +1,23 @@
 # 📚 LeetCode Problems
 
-📁 This repository contains my solutions to **LeetCode** problems in **Java** and **Python**, neatly organised in the order in which I solved the problems. My goal is to document clear, efficient solutions while improving problem-solving skills in **data structures** and **algorithms**.  
+This repository contains my solutions to **LeetCode** problems in **Java** and **Python**, neatly organised in the order in which I solved the problems. My goal is to document clear, efficient solutions while improving problem-solving skills in **data structures** and **algorithms**.  
 
-✨ Features:
-- ✅ Solutions in both **Java** and **Python** (where available).
-- ✅ Categorized by **topic** and **difficulty** for easy navigation.
-- ✅ Marked with `***` if I plan to revisit for an improved solution.
-- ✅ Marked with `?` if I am in the process for finding a solution. 
+Features:
+- Solutions in both **Java** and **Python** (where available).
+- Categorized by **topic** and **difficulty** for easy navigation.
+- Marked with `***` if I plan to revisit for an improved solution.
+- Marked with `?` if I am in the process for finding a solution. 
+
+## 🗓️ LeetCode Daily Challenge 2026 
+
+| Date       | #   | Title         | Difficulty                                                 | Topic(s) | Solution                          |
+|------------|-----|---------------|------------------------------------------------------------|----------|-----------------------------------|
+| 01-01-2026 | 66  | Plus One      | ![Easy](https://img.shields.io/badge/Easy-green)           |  Array   | [Java](Java/PlusOne.java)         |
 
 
-## Order Completed 
+## 🚀 NeetCode 
   
-| #    | Title                                   | Difficulty                                            | Topic  | Solution Files                                                                                 |
+| #    | Title                                   | Difficulty                                            |Topic(s)| Solution Files                                                                                 |
 |------|-----------------------------------------|-------------------------------------------------------|--------|------------------------------------------------------------------------------------------------|
 |  217 | Contains Duplicate                      | ![Easy](https://img.shields.io/badge/Easy-green)      | Array  | [Java](Java/ContainsDuplicate.java) [Python](Python/ContainsDuplicate.py)                      |
 |  268 | Missing Number                          | ![Easy](https://img.shields.io/badge/Easy-green)      | Array  | [Java](Java/MissingNumber.java) [Python](Python/MissingNumber.py)                              |
