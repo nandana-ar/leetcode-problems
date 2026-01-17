@@ -13,20 +13,22 @@ Features:
 | Date       | #    | Title         | Difficulty                                                 | Topic(s) | Solution                          |
 |------------|------|---------------|------------------------------------------------------------|----------|-----------------------------------|
 | 01-01-2026 |   66 | Plus One      | ![Easy](https://img.shields.io/badge/Easy-green)           |  Array   | [Java](Java/PlusOne.java)         |
-| 02-01-2026 |  961 | N-Repeated Element In Size 2N Array | ![Easy](https://img.shields.io/badge/Easy-green)           | Array, Hash Set | [Java](Java/NRepeatedElementInSize2NArray.java)  |
+| 02-01-2026 |  961 | N-Repeated Element In Size 2N Array | ![Easy](https://img.shields.io/badge/Easy-green)           | Array, Hash Set | [Java](‎Java/NRepeatedElementInSize2NArray.java)  |
 | 03-01-2026 | 1411 | Number Of Ways To Paint N x 3 Grid | ![Hard](https://img.shields.io/badge/Hard-%238B0000) | Dynamic Programming | [Java](Java/NumberOfWaysToPaintNx3Grid.java) |
 | 04-01-2026 | 1390 | Four Divisors | ![Medium](https://img.shields.io/badge/Medium-orange) | Array | [Java](Java/FourDivisors.java) |        
 | 05-01-2026 | 1975 | Maximum Matrix Sum | ![Medium](https://img.shields.io/badge/Medium-orange) |  Array   | [Java](Java/MaximumMatrixSum.java) |  
-| 06-01-2026 | 1161 | Maximum Level Sum Of A Binary Tree | ![Medium](https://img.shields.io/badge/Medium-orange) | 
-| 07-01-2026 | 1339 | Maximum Product Of Splitted Binary Tree | ![Medium](https://img.shields.io/badge/Medium-orange) | 
-| 08-01-2026 | 1458 | Max Dot Product Of Two Subsequences |  ![Hard](https://img.shields.io/badge/Hard-%238B0000) |
-| 09-01-2026 |  865 | Smallest Subtree With All The Deepest Nodes | ![Medium](https://img.shields.io/badge/Medium-orange) |
-| 10-01-2026 |  712 | Minimum ASCII Delete Sum For Two Strings | ![Medium](https://img.shields.io/badge/Medium-orange) |
-| 11-01-2026 |   85 | Maximal Rectangle |  ![Hard](https://img.shields.io/badge/Hard-%238B0000) |
-| 12-01-2026 | 1266 | Minimum Time Visiting All Points | ![Easy](https://img.shields.io/badge/Easy-green)           |
-| 13-01-2026 | 3453 | Separate Squares I | ![Medium](https://img.shields.io/badge/Medium-orange) |
-| 14-01-2026 | 3454 | Separate Squares II  |  ![Hard](https://img.shields.io/badge/Hard-%238B0000) |
-| 15-01-2026 | 2943 | Maximise Area Of Square Hole In Grid | ![Medium](https://img.shields.io/badge/Medium-orange) |
+| 06-01-2026 | 1161 | Maximum Level Sum Of A Binary Tree | ![Medium](https://img.shields.io/badge/Medium-orange) | Tree, BFS, DFS | [Java](Java/MaximumLevelSumOfABinaryTree.java) |   
+| 07-01-2026 | 1339 | Maximum Product Of Splitted Binary Tree | ![Medium](https://img.shields.io/badge/Medium-orange) | Tree, DFS | [Java](Java/MaximumProductOfSplittedBinaryTree.java) |
+| 08-01-2026 | 1458 | Max Dot Product Of Two Subsequences |  ![Hard](https://img.shields.io/badge/Hard-%238B0000) | Array, Dynamic Programming | [Java](Java/MaxDotProductOfTwoSubsequences.java) |
+| 09-01-2026 |  865 | Smallest Subtree With All The Deepest Nodes | ![Medium](https://img.shields.io/badge/Medium-orange) | Tree, DFS | [Java](Java/SmallestSubtreeWithAllTheDeepestNodes.java) |
+| 10-01-2026 |  712 | Minimum ASCII Delete Sum For Two Strings | ![Medium](https://img.shields.io/badge/Medium-orange) | Dynamic Programming, String | [Java](Java/MinimumASCIIDeleteSumForTwoStrings.java) |
+| 11-01-2026 |   85 | Maximal Rectangle |  ![Hard](https://img.shields.io/badge/Hard-%238B0000) | Array, Dynamic Programming | [Java](Java/MaximalRectangle.java) |
+| 12-01-2026 | 1266 | Minimum Time Visiting All Points | ![Easy](https://img.shields.io/badge/Easy-green) | Array, Math | [Java](Java/MinimumTimeVisitingAllPoints.java) |
+| 13-01-2026 | 3453 | Separate Squares I | ![Medium](https://img.shields.io/badge/Medium-orange) | Array, Binary Search | [Java](Java/SeparateSquaresI.java) |
+| 14-01-2026 | 3454 | Separate Squares II  |  ![Hard](https://img.shields.io/badge/Hard-%238B0000) | Array, Binary Search, Segment Tree, Sweep Line | [Java]() |
+| 15-01-2026 | 2943 | Maximise Area Of Square Hole In Grid | ![Medium](https://img.shields.io/badge/Medium-orange) | Array, Sorting | [Java]() |
+| 16-01-2026 | 2975 | Maximum Square Area By Removing Fences From A Field | ![Medium](https://img.shields.io/badge/Medium-orange) | Array, Hash Set, Enumeration | [Java]() |
+| 17-01-2026 | 3047 | Find The Largest Area Of Squares Inside Two Rectangles | ![Medium](https://img.shields.io/badge/Medium-orange) | Array, Math | [Java]() |
 
 ## 🚀 NeetCode 
   
