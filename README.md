@@ -25,20 +25,20 @@ Features:
 | 11-01-2026 |   85 | Maximal Rectangle |  ![Hard](https://img.shields.io/badge/Hard-%238B0000) | Array, Dynamic Programming | [Java](Java/MaximalRectangle.java) |
 | 12-01-2026 | 1266 | Minimum Time Visiting All Points | ![Easy](https://img.shields.io/badge/Easy-green) | Array, Math | [Java](Java/MinimumTimeVisitingAllPoints.java) |
 | 13-01-2026 | 3453 | Separate Squares I | ![Medium](https://img.shields.io/badge/Medium-orange) | Array, Binary Search | [Java](Java/SeparateSquaresI.java) |
-| 14-01-2026 | 3454 | Separate Squares II  |  ![Hard](https://img.shields.io/badge/Hard-%238B0000) | Array, Binary Search, Segment Tree, Sweep Line | [Java]() |
-| 15-01-2026 | 2943 | Maximise Area Of Square Hole In Grid | ![Medium](https://img.shields.io/badge/Medium-orange) | Array, Sorting | [Java]() |
-| 16-01-2026 | 2975 | Maximum Square Area By Removing Fences From A Field | ![Medium](https://img.shields.io/badge/Medium-orange) | Array, Hash Set, Enumeration | [Java]() |
-| 17-01-2026 | 3047 | Find The Largest Area Of Squares Inside Two Rectangles | ![Medium](https://img.shields.io/badge/Medium-orange) | Array, Math | [Java]() |
-| 18-01-2026 | 1895 | Largest Magic Square | ![Medium](https://img.shields.io/badge/Medium-orange) | | [Java]() |
-| 19-01-2026 | 1292 | Maximum Side Length Of A Square With Sum Less Than Or Equal To Threshold| ![Medium](https://img.shields.io/badge/Medium-orange)  | | [Java]() |
-| 20-01-2026 | 3314 | Construct The Minimum Bitwise Array I | ![Easy](https://img.shields.io/badge/Easy-green)           | |  [Java]() |
-| 21-01-2026 | 3315 | Construct The Minimum Bitwise Array II |  ![Medium](https://img.shields.io/badge/Medium-orange) | | [Java]() |
-| 22-01-2026 | 3507 | Minimum Pair Removal To Sort Array I | ![Easy](https://img.shields.io/badge/Easy-green)           | |[Java]() |
-| 23-01-2026 | 3510 | Minimum Pair Removal To Sort Array II | ![Hard](https://img.shields.io/badge/Hard-%238B0000) | | [Java]() |
-| 24-01-2026 | 1877 | Minimize Maximum Pair Sum In Array |  ![Medium](https://img.shields.io/badge/Medium-orange) | | [Java]() |
-| 25-01-2026 | 1984 | Minimum Difference Between Highest And Lowest Of K Scores | ![Easy](https://img.shields.io/badge/Easy-green)           | | [Java]() |
-| 26-01-2026 | 1200 | Minimum Absolute Difference | ![Easy](https://img.shields.io/badge/Easy-green)           | | [Java]() |
-| 27-01-2026 | 3650 | Minimum Cost Path With Edge Reversals |  ![Medium](https://img.shields.io/badge/Medium-orange) | | [Java]() |
+| 14-01-2026 | 3454 | Separate Squares II  |  ![Hard](https://img.shields.io/badge/Hard-%238B0000) | Array, Binary Search, Segment Tree, Sweep Line | [Java](‎Java/SeparateSquaresII.java) |
+| 15-01-2026 | 2943 | Maximise Area Of Square Hole In Grid | ![Medium](https://img.shields.io/badge/Medium-orange) | Array, Sorting | [Java](‎Java/MaximizeAreaOfSquareHoleInGrid.java) |
+| 16-01-2026 | 2975 | Maximum Square Area By Removing Fences From A Field | ![Medium](https://img.shields.io/badge/Medium-orange) | Array, Hash Set, Enumeration | [Java](Java/MaximumSquareAreaByRemovingFencesFromAField.java‎) |
+| 17-01-2026 | 3047 | Find The Largest Area Of Squares Inside Two Rectangles | ![Medium](https://img.shields.io/badge/Medium-orange) | Array, Math | [Java](Java/FindTheLargestAreaOfSquareInsideTwoRectangles.java‎) |
+| 18-01-2026 | 1895 | Largest Magic Square | ![Medium](https://img.shields.io/badge/Medium-orange) | Array, Prefix Sum | [Java](‎Java/LargestMagicSquare.java) |
+| 19-01-2026 | 1292 | Maximum Side Length Of A Square With Sum Less Than Or Equal To Threshold| ![Medium](https://img.shields.io/badge/Medium-orange)  | Array, Prefix Sum, Binary Search | [Java](Java/MaximumSideLengthOfASquareWithSumLessThanOrEqualToThreshold.java‎Java/MaximumSideLengthOfASquareWithSumLessThanOrEqualToThreshold.java) |
+| 20-01-2026 | 3314 | Construct The Minimum Bitwise Array I | ![Easy](https://img.shields.io/badge/Easy-green)           | Array, Bit Manipulation|  [Java](Java/ConstructTheMinimumBitwiseArrayI.java) |
+| 21-01-2026 | 3315 | Construct The Minimum Bitwise Array II |  ![Medium](https://img.shields.io/badge/Medium-orange) | Array, Bit Manipulation | [Java](Java/ConstructTheMinimumBitwiseArrayII.java) |
+| 22-01-2026 | 3507 | Minimum Pair Removal To Sort Array I | ![Easy](https://img.shields.io/badge/Easy-green)           | Array |[Java](Java/MinimumPairRemovalToSortArrayI.java) |
+| 23-01-2026 | 3510 | Minimum Pair Removal To Sort Array II | ![Hard](https://img.shields.io/badge/Hard-%238B0000) | Array, Priority Queue | [Java](Java/MinimumPairRemovalToSortArrayII.java) |
+| 24-01-2026 | 1877 | Minimize Maximum Pair Sum In Array |  ![Medium](https://img.shields.io/badge/Medium-orange) | | [Java](‎Java/MinimizeMaximumPairSumInArray.java) |
+| 25-01-2026 | 1984 | Minimum Difference Between Highest And Lowest Of K Scores | ![Easy](https://img.shields.io/badge/Easy-green)           | | [Java](Java/MinimumDifferenceBetweenHighestAndLowestOfKScores.java‎) |
+| 26-01-2026 | 1200 | Minimum Absolute Difference | ![Easy](https://img.shields.io/badge/Easy-green)           | | [Java](‎Java/MinimumAbsoluteDifference.java) |
+| 27-01-2026 | 3650 | Minimum Cost Path With Edge Reversals |  ![Medium](https://img.shields.io/badge/Medium-orange) | | [Java](Java/MinimumCostPathWithEdgeReversals.java‎) |
 | 28-01-2026 | 3651 | Minimum Cost Path With Teleportations | ![Hard](https://img.shields.io/badge/Hard-%238B0000) | | [Java]() |
 | 29-01-2026 | 2976 | Minimum Cost To Comvert String I |  ![Medium](https://img.shields.io/badge/Medium-orange) | | [Java]() |
 | 30-01-2026 | 2977 | Minimum Cost To Comvert String II | ![Hard](https://img.shields.io/badge/Hard-%238B0000) | | [Java]() |
