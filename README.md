@@ -35,14 +35,17 @@ Features:
 | 21-01-2026 | 3315 | Construct The Minimum Bitwise Array II |  ![Medium](https://img.shields.io/badge/Medium-orange) | Array, Bit Manipulation | [Java](Java/ConstructTheMinimumBitwiseArrayII.java) |
 | 22-01-2026 | 3507 | Minimum Pair Removal To Sort Array I | ![Easy](https://img.shields.io/badge/Easy-green)           | Array |[Java](Java/MinimumPairRemovalToSortArrayI.java) |
 | 23-01-2026 | 3510 | Minimum Pair Removal To Sort Array II | ![Hard](https://img.shields.io/badge/Hard-%238B0000) | Array, Priority Queue | [Java](Java/MinimumPairRemovalToSortArrayII.java) |
-| 24-01-2026 | 1877 | Minimize Maximum Pair Sum In Array |  ![Medium](https://img.shields.io/badge/Medium-orange) | | [Java](‎Java/MinimizeMaximumPairSumInArray.java) |
-| 25-01-2026 | 1984 | Minimum Difference Between Highest And Lowest Of K Scores | ![Easy](https://img.shields.io/badge/Easy-green)           | | [Java](Java/MinimumDifferenceBetweenHighestAndLowestOfKScores.java‎) |
-| 26-01-2026 | 1200 | Minimum Absolute Difference | ![Easy](https://img.shields.io/badge/Easy-green)           | | [Java](‎Java/MinimumAbsoluteDifference.java) |
-| 27-01-2026 | 3650 | Minimum Cost Path With Edge Reversals |  ![Medium](https://img.shields.io/badge/Medium-orange) | | [Java](Java/MinimumCostPathWithEdgeReversals.java‎) |
-| 28-01-2026 | 3651 | Minimum Cost Path With Teleportations | ![Hard](https://img.shields.io/badge/Hard-%238B0000) | | [Java]() |
-| 29-01-2026 | 2976 | Minimum Cost To Comvert String I |  ![Medium](https://img.shields.io/badge/Medium-orange) | | [Java]() |
-| 30-01-2026 | 2977 | Minimum Cost To Comvert String II | ![Hard](https://img.shields.io/badge/Hard-%238B0000) | | [Java]() |
-| 31-01-2026 |  744 | Find Smallest Letter Greater Than Target | ![Easy](https://img.shields.io/badge/Easy-green)           | | [Java]() |
+| 24-01-2026 | 1877 | Minimize Maximum Pair Sum In Array |  ![Medium](https://img.shields.io/badge/Medium-orange) | Array, Two Pointers | [Java](‎Java/MinimizeMaximumPairSumInArray.java) |
+| 25-01-2026 | 1984 | Minimum Difference Between Highest And Lowest Of K Scores | ![Easy](https://img.shields.io/badge/Easy-green) | Array, Sliding Window | [Java](Java/MinimumDifferenceBetweenHighestAndLowestOfKScores.java‎) |
+| 26-01-2026 | 1200 | Minimum Absolute Difference | ![Easy](https://img.shields.io/badge/Easy-green) | Array | [Java](‎Java/MinimumAbsoluteDifference.java) |
+| 27-01-2026 | 3650 | Minimum Cost Path With Edge Reversals |  ![Medium](https://img.shields.io/badge/Medium-orange) | Graph Theory, Priority Queue, Shortest Path | [Java](Java/MinimumCostPathWithEdgeReversals.java‎) |
+| 28-01-2026 | 3651 | Minimum Cost Path With Teleportations | ![Hard](https://img.shields.io/badge/Hard-%238B0000) | Array, Dynamic Programming | [Java]() |
+| 29-01-2026 | 2976 | Minimum Cost To Comvert String I |  ![Medium](https://img.shields.io/badge/Medium-orange) | Array, Graph Theory, Shortest Path| [Java]() |
+| 30-01-2026 | 2977 | Minimum Cost To Comvert String II | ![Hard](https://img.shields.io/badge/Hard-%238B0000) | Array, Dynamic Programming, Graph Theory, Shortest Path | [Java]() |
+| 31-01-2026 |  744 | Find Smallest Letter Greater Than Target | ![Easy](https://img.shields.io/badge/Easy-green)           | Array | [Java]() |
+| 01-02-2026 | 3010 | Divide An Array Into Subarrays With Minimum Cost I |  ![Easy](https://img.shields.io/badge/Easy-green) | Array | [Java]() |
+| 02-02-2026 | 3013 | Divide an Array Into Subarrays With Minimum Cost II | ![Hard](https://img.shields.io/badge/Hard-%238B0000) | | [Java]() |
+| 03-02-2026 | 3637 | Trionic Array I |  ![Easy](https://img.shields.io/badge/Easy-green) | | [Java]() |
 
 ## 🚀 NeetCode 
   
