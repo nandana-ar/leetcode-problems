@@ -45,7 +45,12 @@ Features:
 | 31-01-2026 |  744 | Find Smallest Letter Greater Than Target | ![Easy](https://img.shields.io/badge/Easy-green)           | Array | [Java]() |
 | 01-02-2026 | 3010 | Divide An Array Into Subarrays With Minimum Cost I |  ![Easy](https://img.shields.io/badge/Easy-green) | Array | [Java]() |
 | 02-02-2026 | 3013 | Divide an Array Into Subarrays With Minimum Cost II | ![Hard](https://img.shields.io/badge/Hard-%238B0000) | | [Java]() |
-| 03-02-2026 | 3637 | Trionic Array I |  ![Easy](https://img.shields.io/badge/Easy-green) | | [Java]() |
+| 03-02-2026 | 3637 | Trionic Array I | ![Easy](https://img.shields.io/badge/Easy-green) | | [Java]() |
+| 04-02-2026 | 3640 | Trionic Array II | ![Hard](https://img.shields.io/badge/Hard-%238B0000) | | [Java]()  
+| 05-02-2026 | 3379 | Transformed Array | ![Easy](https://img.shields.io/badge/Easy-green) | | [Java]() |
+| 06-02-2026 | 3634 | Minimum Removals To Balance Array | ![Medium](https://img.shields.io/badge/Medium-orange) | | [Java]() 
+| 07-02-2026 | 1653 | Minimum Deletions To Make String Balanced |  ![Medium](https://img.shields.io/badge/Medium-orange) | | [Java]() 
+| 08-02-2026 |  110 | Balanced Binary Tree | ![Easy](https://img.shields.io/badge/Easy-green) | | [Java]() |
 
 ## 🚀 NeetCode 
   
