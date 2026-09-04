@@ -37,6 +37,11 @@ class Solution {
 
 //Time Complexity:
 // -> Iterating through the array: O(n)
-// -> HashMap operations (put and get): O(1)
-// Overall, O(1) * n
+// -> HashMap operations (containsKey, put and get): O(1) average
+// Overall, O(n) * O(1)
+// => O(n)
+//
+// Space Complexity:
+// -> HashMap can store up to n elements: O(n)
+// -> No other data structures that grow with input size
 // => O(n)
