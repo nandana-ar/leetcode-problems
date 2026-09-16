@@ -44,3 +44,9 @@ class Solution {
 // -> Second pass for suffix product (right to left): O(n)
 // Overall, O(n) + O(n)
 // => O(n)
+//
+// Space Complexity:
+// -> The result array contains n elements: O(n)
+// -> Only one additional variable, suffix, is used: O(1)
+// => O(n)
+// -> Auxiliary space (excluding the required output array): O(1)
