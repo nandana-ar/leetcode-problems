@@ -89,3 +89,10 @@ class Solution {
 // -> Comparing characters while moving inward: O(n)
 // Overall, O(n) + O(n) + O(n)
 // => O(n)
+//
+// Space Complexity: 
+// -> Storing primitive variables 'left' and 'right': O(1)
+// -> In-place character access via s.charAt() without extra string copies: O(1)
+// -> In-place character conversion via Character.toLowerCase(): O(1)
+// Overall, O(1) + O(1) + O(1)
+// => O(1)
