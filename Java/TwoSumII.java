@@ -2,7 +2,7 @@
 //                   TWO SUM II - INPUT ARRAY IS SORTED                  //
 
 
-//Logic:
+// Logic:
 // -> Use two pointers, one starting at the beginning (left) and the other 
 //    at the end (right) of the array
 // -> Calculate the sum of the numbers at the left and right pointers
@@ -45,8 +45,14 @@ class Solution {
 }
 
 
-//Time Complexity:
+// Time Complexity:
 // -> Using two pointers to traverse the array once (array is scanned from
 //    both ends without resetting): O(n)
 // Overall, O(n)
 // => O(n)
+//
+// Space Complexity: 
+// -> Storing primitive pointer variables 'left', 'right', and 'sum': O(1)
+// -> Allocating a fixed-size integer array 'result' of length 2: O(1)
+// Overall, O(1) + O(1)
+// => O(1)
