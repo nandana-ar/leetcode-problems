@@ -45,6 +45,12 @@ class Solution {
 // -> Comparing both arrays: O(n)
 // Overall, O(n) + O(n log n) + O(n)
 // => O(n log n)
+//
+// Space Complexity:
+// -> Two character arrays are created: O(n)
+// -> Sorting uses additional recursion stack: O(log n)
+// Overall, O(n) + O(log n)
+// => O(n)
 
 
 //~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Attempt #2~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~//
@@ -95,3 +101,8 @@ class Solution {
 // -> Checking counts: O(1) since the alphabet size is constant (26)
 // Overall, O(1) + O(n) + O(1) 
 // => O(n)
+//
+// Space Complexity:
+// -> Array of 26 integers: O(26)
+// -> Since 26 is a constant, this is O(1)
+// Overall, O(1)
