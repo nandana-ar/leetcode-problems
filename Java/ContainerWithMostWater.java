@@ -2,7 +2,7 @@
 //                      CONTAINER WITH MOST WATER                        //
 
 
-//Logic:
+// Logic:
 // -> Use two pointers, one at the start (left) and one at the end (right)
 //    of the array
 // -> Find the maximum height between the two pointers
@@ -45,10 +45,16 @@ class Solution {
 }
 
 
-//Time Complexity:
+// Time Complexity:
 // -> Iterating through the array once 
 //    - Array is scanned from both ends without resetting
 //    - Finding the maximum height and calculating the area: O(1)
 //    => O(n) * O(1) = O(n)
 // Overall, O(n)
 // => O(n)
+//
+// Space Complexity:
+// -> Storing primitive pointer variables 'left', 'right', 'maxHeight', 
+//   'product', and 'maxAmount': O(1)
+// Overall, O(1) 
+// => O(1)
